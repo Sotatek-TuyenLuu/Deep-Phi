@@ -1,0 +1,32 @@
+# Target labels
+ ITKOptimizers
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkConjugateGradientOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkRegularStepGradientDescentOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkLBFGSOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkExhaustiveOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkLevenbergMarquardtOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkSingleValuedNonLinearVnlOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkQuaternionRigidTransformGradientDescentOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkSPSAOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkSingleValuedVnlCostFunctionAdaptor.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkMultipleValuedNonLinearVnlOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkPowellOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkVersorRigid3DTransformOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkVersorTransformOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkOnePlusOneEvolutionaryOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkMultipleValuedNonLinearOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkLBFGSBOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkCumulativeGaussianOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkAmoebaOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkCumulativeGaussianCostFunction.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkFRPROptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkGradientDescentOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkSingleValuedNonLinearOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkRegularStepGradientDescentBaseOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkMultipleValuedVnlCostFunctionAdaptor.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkParticleSwarmOptimizerBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkParticleSwarmOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/itkInitializationBiasedParticleSwarmOptimizer.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Optimizers/src/CMakeLists.txt

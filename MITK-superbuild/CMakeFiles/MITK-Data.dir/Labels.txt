@@ -1,0 +1,14 @@
+# Target labels
+ MITK-Data
+# Source files and their labels
+E:/B/MITK-superbuild/CMakeFiles/MITK-Data
+E:/B/MITK/CMakeLists.txt
+E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/MITK-Data.rule
+E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/MITK-Data-complete.rule
+E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-install.rule
+E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-mkdir.rule
+E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-download.rule
+E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-update.rule
+E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-patch.rule
+E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-configure.rule
+E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-build.rule

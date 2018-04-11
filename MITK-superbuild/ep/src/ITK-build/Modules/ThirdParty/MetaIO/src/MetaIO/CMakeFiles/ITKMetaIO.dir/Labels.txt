@@ -1,0 +1,37 @@
+# Target labels
+ ITKMetaIO
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaTypes.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaUtils.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaArrow.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaBlob.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaCommand.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaCommand.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaContour.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaContour.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaDTITube.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaEllipse.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaGroup.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaGaussian.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaImage.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaImageUtils.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaLandmark.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaLine.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaMesh.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaMesh.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaObject.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaOutput.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaOutput.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaScene.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaSurface.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaTube.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaVesselTube.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaTransform.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaTubeGraph.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaForm.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaForm.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaArray.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaArray.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaFEMObject.h
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/metaFEMObject.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/MetaIO/src/MetaIO/CMakeLists.txt

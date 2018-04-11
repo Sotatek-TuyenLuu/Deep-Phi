@@ -1,0 +1,13 @@
+# Target labels
+ vtkFiltersSelection
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Selection/vtkKdTreeSelector.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Selection/vtkLinearSelector.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Selection/vtkCellDistanceSelector.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Selection/vtkKdTreeSelector.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Selection/vtkLinearSelector.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Selection/vtkCellDistanceSelector.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Selection/vtkFiltersSelectionModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Selection/vtkFiltersSelectionInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Selection/vtkFiltersSelectionInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Selection/CMakeLists.txt

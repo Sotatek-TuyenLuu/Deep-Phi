@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\PlanarFigure\us_init.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Algorithms\mitkExtrudePlanarFigureFilter.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Algorithms\mitkImageToPlanarFigureFilter.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Algorithms\mitkPlanarFigureObjectFactory.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Algorithms\mitkPlanarFigureSource.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Algorithms\mitkPlanarFigureToPlanarFigureFilter.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarAngle.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarBezierCurve.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarCircle.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarDoubleEllipse.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarEllipse.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarCross.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarFigure.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarFourPointAngle.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarLine.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarArrow.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarPolygon.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarSubdivisionPolygon.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarRectangle.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\DataManagement\mitkPlanarFigureControlPointStyleProperty.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureIOFactory.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureReader.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureWriter.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureWriterFactory.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureSerializer.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureSubclassesSerializer.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Interactions\mitkPlanarFigureInteractor.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Rendering\mitkPlanarFigureMapper2D.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\PlanarFigure\src\Rendering\mitkPlanarFigureVtkMapper3D.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\PlanarFigure\us_MitkPlanarFigure\us_resources.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkExtrudePlanarFigureFilter.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkImageToPlanarFigureFilter.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarAngle.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarArrow.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarBezierCurve.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarCircle.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarCross.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarDoubleEllipse.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarEllipse.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigure.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureControlPointStyleProperty.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureInteractor.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureMapper2D.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureObjectFactory.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureReader.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureSource.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureToPlanarFigureFilter.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureVtkMapper3D.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFigureWriter.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarFourPointAngle.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarLine.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarPolygon.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarRectangle.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\include\mitkPlanarSubdivisionPolygon.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureIOFactory.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureWriterFactory.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\PlanarFigure\src\IO\mitkPlanarFigureSerializer.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Modules\PlanarFigure\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\e758315a00b054175d052ce54a0744f9\res_0.zip.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\e758315a00b054175d052ce54a0744f9\us_resources.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F9D7BD44-F46A-3074-94FA-ACB39BC09607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{F74E9849-2BD8-37FC-AB16-9CC15E842EFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

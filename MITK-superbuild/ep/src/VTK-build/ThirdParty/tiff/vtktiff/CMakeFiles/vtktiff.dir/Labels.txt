@@ -1,0 +1,41 @@
+# Target labels
+ vtktiff
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_aux.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_close.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_codec.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_compress.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_dir.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_dirinfo.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_dirread.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_dirwrite.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_dumpmode.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_error.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_fax3.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_flush.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_getimage.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_jpeg.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_luv.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_lzw.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_next.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_ojpeg.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_open.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_packbits.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_pixarlog.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_predict.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_print.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_read.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_strip.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_swab.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_thunder.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_tile.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_version.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_warning.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_write.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_zip.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_color.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_extension.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/tif_win32.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/fax3sm_winnt.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/vtktiff.def
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/tiff/vtktiff/CMakeLists.txt

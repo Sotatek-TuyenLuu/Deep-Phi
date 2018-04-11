@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericClip.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericContourFilter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericCutter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericDataSetTessellator.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericGeometryFilter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericGlyph3DFilter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericOutlineFilter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericProbeFilter.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericStreamTracer.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Generic\vtkFiltersGenericInstantiator.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericClip.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericContourFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericCutter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericDataSetTessellator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericGeometryFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericGlyph3DFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericOutlineFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericProbeFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\vtkGenericStreamTracer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Generic\vtkFiltersGenericModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Generic\vtkFiltersGenericInstantiator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK\Filters\Generic\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{600A26B5-F89A-37EA-9908-FE6BF3F03878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A7EEA7A8-D9C7-33D9-A983-4D5FA2209263}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

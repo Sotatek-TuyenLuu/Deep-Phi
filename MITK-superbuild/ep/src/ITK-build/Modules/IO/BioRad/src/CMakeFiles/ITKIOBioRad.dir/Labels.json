@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/BioRad/src/itkBioRadImageIOFactory.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/BioRad/src/itkBioRadImageIO.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/BioRad/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKIOBioRad" ],
+		"name" : "ITKIOBioRad"
+	}
+}

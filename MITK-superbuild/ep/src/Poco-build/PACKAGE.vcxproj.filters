@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\Poco-build\CMakeFiles\a2f5f8c63e88d8a24533f92028c867d7\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B1292B93-DC63-3846-BA4F-794F282F57AD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,337 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{826CD852-09CA-33E3-ADC8-1D6088BA12AB}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>MyApp</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\B\MyProject-build\bin\Debug\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">MyApp.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">MyApp</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\B\MyProject-build\bin\Release\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">MyApp.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">MyApp</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\B\MyProject-build\bin\MinSizeRel\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">MyApp.dir\MinSizeRel\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">MyApp</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\B\MyProject-build\bin\RelWithDebInfo\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">MyApp.dir\RelWithDebInfo\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">MyApp</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.exe</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</GenerateManifest>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4005;4231;4316</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;E:\B\MITK-superbuild\MITK-build\lib\plugins\Debug\org_blueberry_core_runtime.lib;E:\B\MITK-superbuild\MITK-build\lib\Debug\MitkAppUtil.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\Debug\CTKPluginFramework.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\Debug\CTKCore.lib;dbghelp.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Sqld.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Concurrentd.lib;E:\B\MITK-superbuild\ep\lib\PocoUtild.lib;E:\B\MITK-superbuild\ep\lib\PocoXMLd.lib;E:\B\MITK-superbuild\ep\lib\PocoJSONd.lib;E:\B\MITK-superbuild\ep\lib\PocoFoundationd.lib;iphlpapi.lib;E:\B\MITK-superbuild\MITK-build\lib\Debug\qtsingleapplication.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Widgetsd.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Guid.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Networkd.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Cored.lib;E:\B\MITK-superbuild\MITK-build\lib\Debug\mbilog.lib;E:\B\MITK-superbuild\MITK-build\lib\Debug\CppMicroServices.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:/B/MITK-superbuild/ep/lib;E:/B/MITK-superbuild/ep/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MyProject-build/bin/Debug/MyApp.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MyProject-build/bin/Debug/MyApp.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DisableSpecificWarnings>4005;4231;4316</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;NDEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;QT_NO_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;NDEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;QT_NO_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;E:\B\MITK-superbuild\MITK-build\lib\plugins\Release\org_blueberry_core_runtime.lib;E:\B\MITK-superbuild\MITK-build\lib\Release\MitkAppUtil.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\Release\CTKPluginFramework.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\Release\CTKCore.lib;dbghelp.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Sql.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Concurrent.lib;E:\B\MITK-superbuild\ep\lib\PocoUtild.lib;E:\B\MITK-superbuild\ep\lib\PocoXMLd.lib;E:\B\MITK-superbuild\ep\lib\PocoJSONd.lib;E:\B\MITK-superbuild\ep\lib\PocoFoundationd.lib;iphlpapi.lib;E:\B\MITK-superbuild\MITK-build\lib\Release\qtsingleapplication.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Widgets.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Gui.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Network.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Core.lib;E:\B\MITK-superbuild\MITK-build\lib\Release\mbilog.lib;E:\B\MITK-superbuild\MITK-build\lib\Release\CppMicroServices.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:/B/MITK-superbuild/ep/lib;E:/B/MITK-superbuild/ep/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MyProject-build/bin/Release/MyApp.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MyProject-build/bin/Release/MyApp.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DisableSpecificWarnings>4005;4231;4316</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;NDEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;QT_NO_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;NDEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;QT_NO_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;E:\B\MITK-superbuild\MITK-build\lib\plugins\MinSizeRel\org_blueberry_core_runtime.lib;E:\B\MITK-superbuild\MITK-build\lib\MinSizeRel\MitkAppUtil.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\MinSizeRel\CTKPluginFramework.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\MinSizeRel\CTKCore.lib;dbghelp.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Sql.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Concurrent.lib;E:\B\MITK-superbuild\ep\lib\PocoUtild.lib;E:\B\MITK-superbuild\ep\lib\PocoXMLd.lib;E:\B\MITK-superbuild\ep\lib\PocoJSONd.lib;E:\B\MITK-superbuild\ep\lib\PocoFoundationd.lib;iphlpapi.lib;E:\B\MITK-superbuild\MITK-build\lib\MinSizeRel\qtsingleapplication.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Widgets.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Gui.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Network.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Core.lib;E:\B\MITK-superbuild\MITK-build\lib\MinSizeRel\mbilog.lib;E:\B\MITK-superbuild\MITK-build\lib\MinSizeRel\CppMicroServices.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:/B/MITK-superbuild/ep/lib;E:/B/MITK-superbuild/ep/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MyProject-build/bin/MinSizeRel/MyApp.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MyProject-build/bin/MinSizeRel/MyApp.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <DisableSpecificWarnings>4005;4231;4316</DisableSpecificWarnings>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <OpenMPSupport>true</OpenMPSupport>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;NDEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;QT_NO_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_WIN32_WINNT=0x0501;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;NOMINMAX;NDEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_CORE_LIB;QT_NO_DEBUG;POCO_NO_UNWINDOWS;WIN32_LEAN_AND_MEAN;QT_SQL_LIB;QT_CONCURRENT_LIB;QT_WIDGETS_LIB;QT_GUI_LIB;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK\Plugins\org.blueberry.core.runtime\src;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\application;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\dynamichelpers;E:\B\MITK\Plugins\org.blueberry.core.runtime\src\registry;E:\B\MITK-superbuild\MITK-build\Plugins\org.blueberry.core.runtime;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build;E:\B\MITK-superbuild\ep\src\CTK\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\PluginFramework;E:\B\MITK-superbuild\ep\src\CTK\Libs\Core;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\Core;E:\B\MITK-superbuild\MITK-build\Utilities\mbilog;E:\B\MITK\Utilities\mbilog\.;E:\B\MITK-superbuild\ep\include;C:\Qt\5.4\msvc2013_opengl\include;C:\Qt\5.4\msvc2013_opengl\include\QtCore;C:\Qt\5.4\msvc2013_opengl\mkspecs\win32-msvc2013;E:\B\MITK\Plugins\org.blueberry.core.runtime;C:\Qt\5.4\msvc2013_opengl\include\QtSql;C:\Qt\5.4\msvc2013_opengl\include\QtConcurrent;E:\B\MITK-superbuild\MITK-build\Modules\AppUtil;E:\B\MITK\Modules\AppUtil\include;E:\B\MITK\Modules\CppMicroServices\third_party;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\include;E:\B\MITK\Modules\CppMicroServices\core\include;E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include;E:\B\MITK\Modules\CppMicroServices\core\src\util;E:\B\MITK\Modules\CppMicroServices\core\src\service;E:\B\MITK\Modules\CppMicroServices\core\src\module;E:\B\MITK-superbuild\MITK-build\Utilities\qtsingleapplication;E:\B\MITK\Utilities\qtsingleapplication\.;C:\Qt\5.4\msvc2013_opengl\include\QtWidgets;C:\Qt\5.4\msvc2013_opengl\include\QtGui;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;E:\B\MITK-superbuild\MITK-build\lib\plugins\RelWithDebInfo\org_blueberry_core_runtime.lib;E:\B\MITK-superbuild\MITK-build\lib\RelWithDebInfo\MitkAppUtil.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\RelWithDebInfo\CTKPluginFramework.lib;E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\bin\RelWithDebInfo\CTKCore.lib;dbghelp.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Sql.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Concurrent.lib;E:\B\MITK-superbuild\ep\lib\PocoUtild.lib;E:\B\MITK-superbuild\ep\lib\PocoXMLd.lib;E:\B\MITK-superbuild\ep\lib\PocoJSONd.lib;E:\B\MITK-superbuild\ep\lib\PocoFoundationd.lib;iphlpapi.lib;E:\B\MITK-superbuild\MITK-build\lib\RelWithDebInfo\qtsingleapplication.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Widgets.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Gui.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Network.lib;C:\Qt\5.4\msvc2013_opengl\lib\Qt5Core.lib;E:\B\MITK-superbuild\MITK-build\lib\RelWithDebInfo\mbilog.lib;E:\B\MITK-superbuild\MITK-build\lib\RelWithDebInfo\CppMicroServices.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>E:/B/MITK-superbuild/ep/lib;E:/B/MITK-superbuild/ep/lib/$(Configuration);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MyProject-build/bin/RelWithDebInfo/MyApp.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MyProject-build/bin/RelWithDebInfo/MyApp.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\MyProject\Apps\MyApp\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule E:/MyProject/Apps/MyApp/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/MyProject -BE:/B/MyProject-build --check-stamp-file E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:/MyProject/Apps/MyApp/CMakeLists.txt;E:\MyProject\Apps\MyApp\CMakeLists.txt;E:\B\MITK\CMake\PackageDepends\MITK_Poco_Config.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationTargets.cmake;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;E:\MyProject\Apps\MyApp\MyApp.ini;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfig.cmake;E:\MyProject\Apps\MyApp\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule E:/MyProject/Apps/MyApp/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/MyProject -BE:/B/MyProject-build --check-stamp-file E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:/MyProject/Apps/MyApp/CMakeLists.txt;E:\MyProject\Apps\MyApp\CMakeLists.txt;E:\B\MITK\CMake\PackageDepends\MITK_Poco_Config.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationTargets.cmake;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;E:\MyProject\Apps\MyApp\MyApp.ini;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfig.cmake;E:\MyProject\Apps\MyApp\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule E:/MyProject/Apps/MyApp/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/MyProject -BE:/B/MyProject-build --check-stamp-file E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:/MyProject/Apps/MyApp/CMakeLists.txt;E:\MyProject\Apps\MyApp\CMakeLists.txt;E:\B\MITK\CMake\PackageDepends\MITK_Poco_Config.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationTargets.cmake;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;E:\MyProject\Apps\MyApp\MyApp.ini;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfig.cmake;E:\MyProject\Apps\MyApp\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule E:/MyProject/Apps/MyApp/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/MyProject -BE:/B/MyProject-build --check-stamp-file E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:/MyProject/Apps/MyApp/CMakeLists.txt;E:\MyProject\Apps\MyApp\CMakeLists.txt;E:\B\MITK\CMake\PackageDepends\MITK_Poco_Config.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfigVersion.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationConfig.cmake;E:\B\MITK-superbuild\ep\lib\cmake\Poco\PocoFoundationTargets.cmake;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Core\Qt5CoreConfig.cmake;E:\MyProject\Apps\MyApp\MyApp.ini;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\MyProject\Apps\MyApp\startMyApp.bat.in;E:\B\MITK\CMake\PackageDepends\MITK_Qt5_Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5ConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5\Qt5Config.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfigVersion.cmake;C:\Qt\5.4\msvc2013_opengl\lib\cmake\Qt5Widgets\Qt5WidgetsConfig.cmake;E:\MyProject\Apps\MyApp\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\B\MyProject-build\Apps\MyApp\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="E:\MyProject\Apps\MyApp\MyApp.cpp"  />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:/B/MyProject-build/ZERO_CHECK.vcxproj">
+      <Project>2BD700B2-5C95-37DB-965D-558510FC73D7</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MyProject-build/Plugins/org.mycompany.myplugin/org_mycompany_myplugin.vcxproj">
+      <Project>77F2E3C9-CB03-39FE-8424-95730C98BE75</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

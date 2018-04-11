@@ -1,0 +1,123 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkDatabaseToTableReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkRowQuery.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkRowQueryToTable.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLDatabase.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLDatabaseSchema.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLDatabaseTableSource.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLQuery.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkTableToDatabaseWriter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLiteDatabase.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLiteQuery.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLiteToTableReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkTableToSQLiteWriter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkDatabaseToTableReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkRowQuery.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkRowQueryToTable.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLDatabase.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLDatabaseSchema.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLDatabaseTableSource.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLQuery.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkTableToDatabaseWriter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLiteDatabase.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLiteQuery.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkSQLiteToTableReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/vtkTableToSQLiteWriter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/IO/SQL/vtkIOSQLModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/IO/SQL/vtkIOSQLInstantiator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/IO/SQL/vtkIOSQLInstantiator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/SQL/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkIOSQL" ],
+		"name" : "vtkIOSQL"
+	}
+}

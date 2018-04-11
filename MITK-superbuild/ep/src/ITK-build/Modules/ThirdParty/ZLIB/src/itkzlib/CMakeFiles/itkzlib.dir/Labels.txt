@@ -1,0 +1,15 @@
+# Target labels
+ ITKZLIB
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/adler32.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/compress.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/crc32.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/deflate.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/gzio.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/inffast.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/inflate.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/inftrees.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/trees.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/uncompr.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/zutil.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/ZLIB/src/itkzlib/CMakeLists.txt

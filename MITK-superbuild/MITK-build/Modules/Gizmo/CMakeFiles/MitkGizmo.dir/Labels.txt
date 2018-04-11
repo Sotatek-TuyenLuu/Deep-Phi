@@ -1,0 +1,37 @@
+# Target labels
+ MITK-Modules
+ MITK
+# Source files and their labels
+E:/B/MITK-superbuild/MITK-build/Modules/Gizmo/us_init.cpp
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/src/mitkGizmo.cpp
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/src/mitkGizmoInteractor.cpp
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/src/mitkGizmoObjectFactory.cpp
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/src/mitkGizmoMapper2D.cpp
+ MITK-Modules
+ MITK
+E:/B/MITK-superbuild/MITK-build/Modules/Gizmo/us_MitkGizmo/us_resources.cpp
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/src/mitkGizmoMapper2D.h
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/src/mitkGizmoObjectFactory.h
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/include/mitkGizmo.h
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/include/mitkGizmoInteractor.h
+ MITK-Modules
+ MITK
+E:/B/MITK/Modules/Gizmo/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/f89bedf60efdde4a4363abdc87c490f8/us_resources.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/f89bedf60efdde4a4363abdc87c490f8/res_0.zip.rule

@@ -1,0 +1,47 @@
+# Target labels
+ vtkRenderingContext2D
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkAbstractContextBufferId.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkAbstractContextItem.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkBlockItem.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkBrush.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContext2D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContext3D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextActor.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextClip.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextDevice2D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextDevice3D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextItem.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextKeyEvent.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextMapper2D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextMouseEvent.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextScene.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkImageItem.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkMarkerUtilities.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkPen.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkTooltipItem.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkAbstractContextBufferId.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkAbstractContextItem.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkBlockItem.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkBrush.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContext2D.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContext3D.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextActor.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextClip.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextDevice2D.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextDevice3D.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextItem.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextKeyEvent.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextMapper2D.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextMouseEvent.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextScene.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkContextTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkImageItem.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkMarkerUtilities.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkPen.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/vtkTooltipItem.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Context2D/vtkRenderingContext2DModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Context2D/vtkRenderingContext2DInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Context2D/vtkRenderingContext2DInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Context2D/CMakeLists.txt

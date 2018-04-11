@@ -1,0 +1,10 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.planarfigure/src/internal/mitkPlanarFigureActivator.cpp
+E:/B/MITK/Plugins/org.mitk.planarfigure/src/internal/mitkPlanarFigureActivator.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.planarfigure/src/internal/moc_mitkPlanarFigureActivator.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.planarfigure/qrc_org_mitk_planarfigure_manifest.cpp
+E:/B/MITK/Plugins/org.mitk.planarfigure/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/9f7998bfffad7594d0619650856957ef/moc_mitkPlanarFigureActivator.cpp.rule
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.planarfigure/org_mitk_planarfigure_manifest.qrc

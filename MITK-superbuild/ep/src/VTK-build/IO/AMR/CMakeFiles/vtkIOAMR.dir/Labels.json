@@ -1,0 +1,99 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRDataSetCache.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRBaseParticlesReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRBaseReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMREnzoParticlesReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMREnzoReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMREnzoReaderInternal.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRFlashParticlesReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRFlashReader.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRFlashReaderInternal.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRDataSetCache.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRBaseParticlesReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRBaseReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMREnzoParticlesReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMREnzoReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMREnzoReaderInternal.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRFlashParticlesReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRFlashReader.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/vtkAMRFlashReaderInternal.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/IO/AMR/vtkIOAMRModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/IO/AMR/vtkIOAMRInstantiator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/IO/AMR/vtkIOAMRInstantiator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/IO/AMR/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkIOAMR" ],
+		"name" : "vtkIOAMR"
+	}
+}

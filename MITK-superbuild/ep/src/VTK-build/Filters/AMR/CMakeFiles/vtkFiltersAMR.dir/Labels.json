@@ -1,0 +1,83 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRCutPlane.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRGaussianPulseSource.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRResampleFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRSliceFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRToMultiBlockFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkImageToAMR.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkParallelAMRUtilities.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRCutPlane.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRGaussianPulseSource.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRResampleFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRSliceFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRToMultiBlockFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkImageToAMR.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkParallelAMRUtilities.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Filters/AMR/vtkFiltersAMRModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Filters/AMR/vtkFiltersAMRInstantiator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Filters/AMR/vtkFiltersAMRInstantiator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkFiltersAMR" ],
+		"name" : "vtkFiltersAMR"
+	}
+}

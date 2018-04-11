@@ -1,0 +1,43 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkLODActor.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkQuadricLODActor.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkLODActor.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkQuadricLODActor.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/LOD/vtkRenderingLODModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/LOD/vtkRenderingLODInstantiator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/LOD/vtkRenderingLODInstantiator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkRenderingLOD" ],
+		"name" : "vtkRenderingLOD"
+	}
+}

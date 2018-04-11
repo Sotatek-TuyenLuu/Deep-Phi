@@ -1,0 +1,43 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/CTK-configure"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/17c0f4a1e1adc6981a134d52423531ff/CTK-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/90ba5b113ca63df7fcfddccddb131b4c/CTK-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/90ba5b113ca63df7fcfddccddb131b4c/CTK-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/90ba5b113ca63df7fcfddccddb131b4c/CTK-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/90ba5b113ca63df7fcfddccddb131b4c/CTK-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/90ba5b113ca63df7fcfddccddb131b4c/CTK-mkdir.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "CTK" ],
+		"name" : "CTK-configure"
+	}
+}

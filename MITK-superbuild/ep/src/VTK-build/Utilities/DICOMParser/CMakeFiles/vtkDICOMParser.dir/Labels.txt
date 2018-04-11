@@ -1,0 +1,7 @@
+# Target labels
+ vtkDICOMParser
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/DICOMParser/DICOMFile.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/DICOMParser/DICOMParser.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/DICOMParser/DICOMAppHelper.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/DICOMParser/CMakeLists.txt

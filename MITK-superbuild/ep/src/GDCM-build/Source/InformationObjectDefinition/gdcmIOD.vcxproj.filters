@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmModule.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmMacro.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmModules.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmMacros.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmNestedModuleEntries.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmIODEntry.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmTableReader.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmTable.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmSeries.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmDefs.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmDefinedTerms.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmEnumeratedValues.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmStudy.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmPatient.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmType.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmUsage.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\gdcmIOD.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\GDCM\Source\InformationObjectDefinition\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{1B52BB29-75BB-3285-A5B9-32582A393EEF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

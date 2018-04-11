@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/GIFTI/src/gifticlib/gifti_io.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/GIFTI/src/gifticlib/gifti_xml.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/GIFTI/src/gifticlib/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKGIFTI" ],
+		"name" : "ITKgiftiio"
+	}
+}

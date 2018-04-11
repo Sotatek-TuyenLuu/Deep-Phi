@@ -1,0 +1,26 @@
+# Target labels
+ vtkIOMINC
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMINCImageAttributes.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMINCImageReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMINCImageWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNIObjectReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNIObjectWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITagPointReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITagPointWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITransformReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITransformWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMINC.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMINCImageAttributes.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMINCImageReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMINCImageWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNIObjectReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNIObjectWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITagPointReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITagPointWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITransformReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/vtkMNITransformWriter.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/MINC/vtkIOMINCModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/MINC/vtkIOMINCInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/MINC/vtkIOMINCInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/MINC/CMakeLists.txt

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationError.c">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationNew.c">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationFree.c">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationClear.c">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationCombineRegion.c">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationRegionGrower.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationContourExtraction.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationReplaceRegion.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationRegionCutter.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationGrowerHistory.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationContourUtils.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationInterpolate.c">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationUndo.c">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Utilities\IpSegmentation\ipSegmentationError.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Utilities\IpSegmentation\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{F74E9849-2BD8-37FC-AB16-9CC15E842EFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

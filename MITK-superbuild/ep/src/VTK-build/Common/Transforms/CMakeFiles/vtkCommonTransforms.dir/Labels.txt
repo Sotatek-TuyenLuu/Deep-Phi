@@ -1,0 +1,39 @@
+# Target labels
+ vtkCommonTransforms
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkAbstractTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkCylindricalTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkGeneralTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkHomogeneousTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkIdentityTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkLinearTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkMatrixToHomogeneousTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkMatrixToLinearTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkPerspectiveTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkSphericalTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkThinPlateSplineTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkTransform2D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkTransformCollection.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkWarpTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkLandmarkTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkAbstractTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkCylindricalTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkGeneralTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkHomogeneousTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkIdentityTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkLinearTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkMatrixToHomogeneousTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkMatrixToLinearTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkPerspectiveTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkSphericalTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkThinPlateSplineTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkTransform2D.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkTransformCollection.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkWarpTransform.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/vtkLandmarkTransform.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Common/Transforms/vtkCommonTransformsModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Common/Transforms/vtkCommonTransformsInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Common/Transforms/vtkCommonTransformsInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Transforms/CMakeLists.txt

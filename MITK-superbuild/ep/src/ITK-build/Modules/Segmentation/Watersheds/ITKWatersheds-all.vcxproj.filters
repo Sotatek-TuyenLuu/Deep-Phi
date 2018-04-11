@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\src\itkOneWayEquivalencyTable.cxx">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\src\itkWatershedMiniPipelineProgressCommand.cxx">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkIsolatedWatershedImageFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkOneWayEquivalencyTable.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkTobogganImageFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedBoundary.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedBoundaryResolver.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedEquivalenceRelabeler.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedImageFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedMiniPipelineProgressCommand.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedRelabeler.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmenter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmentTable.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmentTree.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmentTreeGenerator.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkIsolatedWatershedImageFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkTobogganImageFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedBoundary.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedBoundaryResolver.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedEquivalenceRelabeler.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedImageFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedRelabeler.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmenter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmentTable.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmentTree.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Segmentation\Watersheds\include\itkWatershedSegmentTreeGenerator.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{246B96C6-FBA6-3256-BE1A-36E2903A5BAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7B359C7F-8083-3C55-B291-A79C0123F076}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

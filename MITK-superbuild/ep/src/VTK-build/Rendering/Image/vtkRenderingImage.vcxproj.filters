@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\Image\vtkImageResliceMapper.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\Image\vtkImageSliceCollection.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\Image\vtkImageStack.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\Image\vtkRenderingImageInstantiator.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\Image\vtkImageResliceMapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\Image\vtkImageSliceCollection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\Image\vtkImageStack.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\Image\vtkRenderingImageModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\Image\vtkRenderingImageInstantiator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\Image\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{600A26B5-F89A-37EA-9908-FE6BF3F03878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A7EEA7A8-D9C7-33D9-A983-4D5FA2209263}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

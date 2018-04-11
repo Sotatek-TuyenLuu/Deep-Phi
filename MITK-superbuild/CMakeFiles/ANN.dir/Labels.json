@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/ANN"
+		},
+		
+		{
+			"file" : "E:/B/MITK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/ANN.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/ANN-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/92dad49fa042166e399a99201b7610f1/ANN-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/92dad49fa042166e399a99201b7610f1/ANN-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/92dad49fa042166e399a99201b7610f1/ANN-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/92dad49fa042166e399a99201b7610f1/ANN-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/92dad49fa042166e399a99201b7610f1/ANN-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/92dad49fa042166e399a99201b7610f1/ANN-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/92dad49fa042166e399a99201b7610f1/ANN-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ANN" ],
+		"name" : "ANN"
+	}
+}

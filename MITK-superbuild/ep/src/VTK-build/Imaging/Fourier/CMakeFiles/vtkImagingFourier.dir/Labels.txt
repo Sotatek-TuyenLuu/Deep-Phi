@@ -1,0 +1,25 @@
+# Target labels
+ vtkImagingFourier
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageButterworthHighPass.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageButterworthLowPass.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageFFT.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageFourierCenter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageFourierFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageIdealHighPass.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageIdealLowPass.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageRFFT.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkTableFFT.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageButterworthHighPass.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageButterworthLowPass.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageFFT.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageFourierCenter.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageFourierFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageIdealHighPass.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageIdealLowPass.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkImageRFFT.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/vtkTableFFT.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Fourier/vtkImagingFourierModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Fourier/vtkImagingFourierInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Fourier/vtkImagingFourierInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Fourier/CMakeLists.txt

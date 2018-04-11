@@ -1,0 +1,33 @@
+# Target labels
+ vtkoggtheora
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libogg-1.1.4/src/framing.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libogg-1.1.4/src/bitwise.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/analyze.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/apiwrapper.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/bitpack.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/decapiwrapper.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/decinfo.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/decode.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/dequant.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/encapiwrapper.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/encfrag.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/encinfo.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/encode.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/enquant.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/fdct.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/fragment.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/huffdec.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/huffenc.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/idct.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/info.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/internal.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/mathops.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/mcenc.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/quant.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/rate.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/state.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/libtheora-1.1.1/lib/tokenize.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/vtkoggtheora.def
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/vtkoggtheora.rc
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/oggtheora/vtkoggtheora/CMakeLists.txt

@@ -1,0 +1,6 @@
+-IE:/B/MITK-superbuild/ep/src/CTK-build/qRestAPI
+-IE:/B/MITK-superbuild/ep/src/CTK-build/qRestAPI-build
+-DWIN32
+-o
+E:/B/MITK-superbuild/ep/src/CTK-build/qRestAPI-build/moc_qRestAPI.cpp
+E:/B/MITK-superbuild/ep/src/CTK-build/qRestAPI/qRestAPI.h

@@ -1,0 +1,14 @@
+# Target labels
+ vtkverdict
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_EdgeMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_GaussIntegration.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_HexMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_KnifeMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_PyramidMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_QuadMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_TetMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_TriMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/VerdictVector.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/V_WedgeMetric.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/verdict/vtkverdict/CMakeLists.txt

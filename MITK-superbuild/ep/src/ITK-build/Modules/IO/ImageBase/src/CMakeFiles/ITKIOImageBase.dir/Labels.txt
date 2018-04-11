@@ -1,0 +1,11 @@
+# Target labels
+ ITKIOImageBase
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/itkArchetypeSeriesFileNames.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/itkImageIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/itkIOCommon.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/itkNumericSeriesFileNames.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/itkImageIOBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/itkRegularExpressionSeriesFileNames.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/itkStreamingImageIOBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/ImageBase/src/CMakeLists.txt

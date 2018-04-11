@@ -1,0 +1,21 @@
+# Target labels
+ vtkImagingStencil
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImageStencil.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImageStencilToImage.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImageToImageStencil.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImplicitFunctionToImageStencil.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkLassoStencilSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkPolyDataToImageStencil.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkROIStencilSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImageStencil.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImageStencilToImage.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImageToImageStencil.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkImplicitFunctionToImageStencil.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkLassoStencilSource.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkPolyDataToImageStencil.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/vtkROIStencilSource.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Stencil/vtkImagingStencilModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Stencil/vtkImagingStencilInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Stencil/vtkImagingStencilInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Stencil/CMakeLists.txt

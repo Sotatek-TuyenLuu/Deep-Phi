@@ -1,0 +1,203 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMAbstractThumbnailGenerator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMAbstractThumbnailGenerator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMDatabase.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMDatabase.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMItem.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMFilterProxyModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMFilterProxyModel.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMIndexer.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMIndexer.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMIndexer_p.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMItem.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMModel.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMObjectModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMObjectModel.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMPersonName.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMPersonName.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMQuery.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMQuery.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMRetrieve.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMRetrieve.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMTester.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMTester.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMUtil.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/ctkDICOMUtil.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMAbstractThumbnailGenerator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMDatabase.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMIndexer.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMIndexer_p.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMFilterProxyModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMObjectModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMQuery.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMRetrieve.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/moc_ctkDICOMTester.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/DICOM/Core/qrc_ctkDICOMCore.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMAbstractThumbnailGenerator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMDatabase.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMIndexer.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMIndexer_p.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMFilterProxyModel.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMModel.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMObjectModel.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMQuery.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMRetrieve.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/664470727e1f78b5c45307ce43dcfbdd/moc_ctkDICOMTester.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/DICOM/Core/Resources/ctkDICOMCore.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "CTKDICOMCore" ],
+		"name" : "CTKDICOMCore"
+	}
+}

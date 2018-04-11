@@ -1,0 +1,15 @@
+# Target labels
+ vtkzlib
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/adler32.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/compress.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/crc32.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/deflate.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/gzio.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/inffast.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/inflate.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/inftrees.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/trees.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/uncompr.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/zutil.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/CMakeLists.txt

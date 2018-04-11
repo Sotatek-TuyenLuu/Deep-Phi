@@ -1,0 +1,43 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtWebkit/vtkQtRichTextView.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/GUISupport/QtWebkit/ui_vtkQtRichTextView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/GUISupport/QtWebkit/moc_vtkQtRichTextView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtWebkit/vtkQtRichTextView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/GUISupport/QtWebkit/vtkGUISupportQtWebkitModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtWebkit/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtWebkit/vtkQtRichTextView.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/f77f0db317a4bf81e9333133563ed12e/moc_vtkQtRichTextView.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkGUISupportQtWebkit" ],
+		"name" : "vtkGUISupportQtWebkit"
+	}
+}

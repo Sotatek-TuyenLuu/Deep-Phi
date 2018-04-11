@@ -1,0 +1,11 @@
+# Target labels
+ vtkCommonColor
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Common/Color/vtkColorSeries.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Color/vtkNamedColors.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Color/vtkColorSeries.h
+E:/B/MITK-superbuild/ep/src/VTK/Common/Color/vtkNamedColors.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Common/Color/vtkCommonColorModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Common/Color/vtkCommonColorInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Common/Color/vtkCommonColorInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Common/Color/CMakeLists.txt

@@ -1,0 +1,6 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK/Utilities/CMakeLists.txt
+E:/B/MITK-superbuild/ep/lib/cmake/ITK-4.7/ITKConfigVersion.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/ITK-4.7/ITKConfig.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/ITK-4.7/ITKModuleAPI.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/ITK-4.7/UseITK.cmake

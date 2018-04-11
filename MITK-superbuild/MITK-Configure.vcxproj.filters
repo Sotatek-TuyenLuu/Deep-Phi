@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\2cef7817b56e7ea10e93778d2a666eb8\MITK-Configure-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\2cef7817b56e7ea10e93778d2a666eb8\MITK-Configure-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\2cef7817b56e7ea10e93778d2a666eb8\MITK-Configure-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\2cef7817b56e7ea10e93778d2a666eb8\MITK-Configure-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\2cef7817b56e7ea10e93778d2a666eb8\MITK-Configure-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\2cef7817b56e7ea10e93778d2a666eb8\MITK-Configure-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\2cef7817b56e7ea10e93778d2a666eb8\MITK-Configure-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\0b39df59f477f465f443171dd9825b7c\MITK-Configure-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\b99173ec862025cfd82fb2e53ddcb808\MITK-Configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK-superbuild\CMakeFiles\MITK-Configure" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4CF2ED73-2218-37F1-9FC4-4A73C7697E5D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

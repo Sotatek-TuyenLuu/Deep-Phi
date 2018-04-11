@@ -1,0 +1,6 @@
+# Target labels
+ vtknetcdf
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/netcdf/vtknetcdf/cxx/netcdf.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/netcdf/vtknetcdf/cxx/ncvalues.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/netcdf/vtknetcdf/CMakeLists.txt

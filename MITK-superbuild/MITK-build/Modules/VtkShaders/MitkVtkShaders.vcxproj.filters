@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\VtkShaders\us_init.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\VtkShaders\src\vtkXMLMaterial.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\VtkShaders\src\vtkXMLMaterialParser.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\VtkShaders\src\vtkXMLShader.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\VtkShaders\src\mitkVtkShaderRepository.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\VtkShaders\src\mitkVtkShadersActivator.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\VtkShaders\src\mitkVtkShaderProgram.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\VtkShaders\us_MitkVtkShaders\us_resources.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Modules\VtkShaders\src\vtkXMLMaterial.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\VtkShaders\src\vtkXMLMaterialParser.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\VtkShaders\src\vtkXMLShader.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\VtkShaders\src\mitkVtkShaderRepository.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\VtkShaders\src\mitkVtkShaderProgram.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Modules\VtkShaders\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\2bbee21c1fdf4e693ecb3978abdfb864\res_0.zip.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\2bbee21c1fdf4e693ecb3978abdfb864\us_resources.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F9D7BD44-F46A-3074-94FA-ACB39BC09607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{F74E9849-2BD8-37FC-AB16-9CC15E842EFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

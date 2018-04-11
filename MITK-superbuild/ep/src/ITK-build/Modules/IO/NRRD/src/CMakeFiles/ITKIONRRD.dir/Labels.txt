@@ -1,0 +1,6 @@
+# Target labels
+ ITKIONRRD
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/NRRD/src/itkNrrdImageIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/NRRD/src/itkNrrdImageIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/NRRD/src/CMakeLists.txt

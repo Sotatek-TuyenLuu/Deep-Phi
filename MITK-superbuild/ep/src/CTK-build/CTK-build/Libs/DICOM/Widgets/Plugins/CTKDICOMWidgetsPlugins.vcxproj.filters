@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMWidgetsPlugins.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMWidgetsAbstractPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMQueryRetrieveWidgetPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMTableManagerPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMTableViewPlugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\Plugins\moc_ctkDICOMWidgetsPlugins.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\Plugins\moc_ctkDICOMQueryRetrieveWidgetPlugin.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\Plugins\moc_ctkDICOMTableManagerPlugin.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\Plugins\moc_ctkDICOMTableViewPlugin.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMWidgetsPlugins.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMWidgetsAbstractPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMQueryRetrieveWidgetPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMTableManagerPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\ctkDICOMTableViewPlugin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Plugins\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\bedc81d9bdc9a8c99a1ffe621c849ab6\moc_ctkDICOMWidgetsPlugins.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\bedc81d9bdc9a8c99a1ffe621c849ab6\moc_ctkDICOMQueryRetrieveWidgetPlugin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\bedc81d9bdc9a8c99a1ffe621c849ab6\moc_ctkDICOMTableManagerPlugin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\bedc81d9bdc9a8c99a1ffe621c849ab6\moc_ctkDICOMTableViewPlugin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8FADA9E-9DBE-38B4-ABDC-2B1778D3BE9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{328A4477-AA42-35C0-B5FF-4AD3DD0DABCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{88D044E2-2161-3C42-8628-CA3F6DEE6C49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{62ED9A61-2B97-399B-A2A9-8FC3E4A86410}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

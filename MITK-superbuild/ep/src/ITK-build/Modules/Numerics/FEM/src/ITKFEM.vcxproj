@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{DC91B0FB-3277-333D-AA36-D81EA19754D3}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>ITKFEM</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\lib\Debug\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">ITKFEM.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">ITKFEM-4.7d</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\lib\Release\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">ITKFEM.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">ITKFEM-4.7</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\lib\MinSizeRel\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">ITKFEM.dir\MinSizeRel\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">ITKFEM-4.7</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.lib</TargetExt>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\lib\RelWithDebInfo\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">ITKFEM.dir\RelWithDebInfo\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">ITKFEM-4.7</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.lib</TargetExt>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR="Debug";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"Debug\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR="Release";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"Release\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR="MinSizeRel";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"MinSizeRel\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level3</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR="RelWithDebInfo";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_FAR_MAPPINGS_NO_DEPRECATE;_CRT_IS_WCTYPE_NO_DEPRECATE;_CRT_MANAGED_FP_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE;_CRT_SECURE_NO_DEPRECATE_GLOBALS;_CRT_SETERRORMODE_BEEP_SLEEP_NO_DEPRECATE;_CRT_TIME_FUNCTIONS_NO_DEPRECATE;_CRT_VCCLRIT_NO_DEPRECATE;_SCL_SECURE_NO_DEPRECATE;CMAKE_INTDIR=\"RelWithDebInfo\";%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\DoubleConversion\src\double-conversion;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\KWSys\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\v3p\netlib;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\vcl;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\VNL\src\vxl\core;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\VNLInstantiation\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Core\Common;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Common\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\IO\ImageBase;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\ImageBase\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\Expat\src\expat;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\XML\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageAdaptors\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\Netlib;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Statistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFilterBase\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Transform\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\ImageFunction\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\Mesh\include;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\ZLIB\src;E:\B\MITK-superbuild\ep\src\ITK-build\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\ThirdParty\MetaIO\src\MetaIO;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\IO\SpatialObjects\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGrid\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageCompose\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageStatistics\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageIntensity\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\DisplacementField\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Core\FiniteDifference\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Smoothing\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageGradient\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageSources\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\ImageFeature\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\Optimizers\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Registration\Common\include;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Lib>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+    </Lib>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/ITK -BE:/B/MITK-superbuild/ep/src/ITK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/ITK -BE:/B/MITK-superbuild/ep/src/ITK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/ITK -BE:/B/MITK-superbuild/ep/src/ITK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/ITK -BE:/B/MITK-superbuild/ep/src/ITK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/FEM/src/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\B\MITK-superbuild\ep\src\ITK-build\Modules\Numerics\FEM\src\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearLine.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearLineStress.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearQuadrilateral.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearQuadrilateralMembrane.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearQuadrilateralStrain.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearQuadrilateralStress.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearTriangular.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearTriangularMembrane.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearTriangularStrain.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0LinearTriangularStress.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0QuadraticTriangular.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0QuadraticTriangularStrain.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC0QuadraticTriangularStress.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement2DC1Beam.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearHexahedron.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearHexahedronMembrane.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearHexahedronStrain.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearTetrahedron.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearTetrahedronMembrane.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearTetrahedronStrain.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearTriangular.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearTriangularLaplaceBeltrami.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElement3DC0LinearTriangularMembrane.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMElementBase.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMException.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMFactoryBase.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMItpackSparseMatrix.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLightObject.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLinearSystemWrapper.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLinearSystemWrapperDenseVNL.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLinearSystemWrapperItpack.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLinearSystemWrapperVNL.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadBC.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadBCMFC.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadBase.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadEdge.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadElementBase.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadGrav.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadLandmark.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadNoisyLandmark.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadNode.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMLoadPoint.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMMaterialBase.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMMaterialLinearElasticity.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\itkFEMUtility.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Numerics\FEM\src\dsrc2c.c" >
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">CompileAsC</CompileAs>
+      <CompileAs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">CompileAsC</CompileAs>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/ZERO_CHECK.vcxproj">
+      <Project>8ADCC59D-A77F-3912-801A-1569AFB18E4E</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/Core/Common/src/ITKCommon.vcxproj">
+      <Project>604C10C6-B1D5-30C9-AFB0-9874AE4E6165</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/IO/ImageBase/src/ITKIOImageBase.vcxproj">
+      <Project>B6341C87-A430-3F4B-A706-9869169B0755</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/Core/Mesh/src/ITKMesh.vcxproj">
+      <Project>8394AD80-08C1-36CB-AAE5-64A95CB01D40</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/MetaIO/src/MetaIO/ITKMetaIO.vcxproj">
+      <Project>25ECADF1-43FF-3FA7-BCDA-AC5CC26DF6E5</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/Numerics/Optimizers/src/ITKOptimizers.vcxproj">
+      <Project>1016CDE6-0710-3F40-BD12-97A9E2761A4B</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/Filtering/Path/src/ITKPath.vcxproj">
+      <Project>D04454D1-7FF7-3D28-ACDA-EA0FD9CEFAAB</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/Core/SpatialObjects/src/ITKSpatialObjects.vcxproj">
+      <Project>1A3D2B1A-DB6D-3E6E-9895-5966F544EE67</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/Numerics/Statistics/src/ITKStatistics.vcxproj">
+      <Project>52A9A9BD-922E-331B-8093-F39328CBCB77</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/VNLInstantiation/src/ITKVNLInstantiation.vcxproj">
+      <Project>54B25A81-DE0F-3C8C-8DBB-6638E31EC1BE</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/Netlib/src/netlib/slatec/itkNetlibSlatec.vcxproj">
+      <Project>0F2D38D9-FBB0-3136-9438-6AF55147FECF</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/DoubleConversion/src/double-conversion/itkdouble-conversion.vcxproj">
+      <Project>4D4BF378-7F50-3FE8-8174-0FF99891228D</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/KWSys/src/KWSys/itksys.vcxproj">
+      <Project>207E03A6-4A87-3031-BB33-AC7D3845D9DC</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/VNL/src/vxl/v3p/netlib/linalg/itkv3p_lsqr.vcxproj">
+      <Project>78BEF1CF-283C-3922-9667-1D8012790A89</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/VNL/src/vxl/v3p/netlib/itkv3p_netlib.vcxproj">
+      <Project>4562284D-3BBF-3B4E-A02F-52212347C82B</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/VNL/src/vxl/vcl/itkvcl.vcxproj">
+      <Project>2FACE1D3-1EF7-3E20-8CCA-D8BB3973D775</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/VNL/src/vxl/core/vnl/itkvnl.vcxproj">
+      <Project>2CBFE758-B48F-31A3-A5CE-0C78A9A95B75</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/VNL/src/vxl/core/vnl/algo/itkvnl_algo.vcxproj">
+      <Project>217E5E21-AA4F-3BDD-BA03-5F5EBA7D4965</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/ITK-build/Modules/ThirdParty/ZLIB/src/itkzlib/itkzlib.vcxproj">
+      <Project>D7048A33-C01C-347A-B083-4301A342B78B</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

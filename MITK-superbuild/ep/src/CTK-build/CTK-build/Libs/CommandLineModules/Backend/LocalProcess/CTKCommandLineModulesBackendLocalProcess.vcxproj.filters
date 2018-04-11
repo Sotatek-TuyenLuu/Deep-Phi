@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Backend\LocalProcess\ctkCmdLineModuleBackendLocalProcess.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Backend\LocalProcess\ctkCmdLineModuleProcessTask.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Backend\LocalProcess\ctkCmdLineModuleProcessWatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\CommandLineModules\Backend\LocalProcess\moc_ctkCmdLineModuleProcessWatcher_p.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\CommandLineModules\Backend\LocalProcess\qrc_ctkCmdLineModulesBackendLocalProcess.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Backend\LocalProcess\ctkCmdLineModuleProcessWatcher_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Backend\LocalProcess\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\af061e6180d5466170cf7ecc235b7dc7\moc_ctkCmdLineModuleProcessWatcher_p.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Backend\LocalProcess\Resources\ctkCmdLineModulesBackendLocalProcess.qrc">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8FADA9E-9DBE-38B4-ABDC-2B1778D3BE9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{328A4477-AA42-35C0-B5FF-4AD3DD0DABCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{88D044E2-2161-3C42-8628-CA3F6DEE6C49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{458BC5DD-DE80-3145-9BC8-DBD688081FFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{62ED9A61-2B97-399B-A2A9-8FC3E4A86410}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

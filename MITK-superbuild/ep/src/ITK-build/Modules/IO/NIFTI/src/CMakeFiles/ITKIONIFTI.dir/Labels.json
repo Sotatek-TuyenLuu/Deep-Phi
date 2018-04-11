@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/NIFTI/src/itkNiftiImageIOFactory.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/NIFTI/src/itkNiftiImageIO.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/NIFTI/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKIONIFTI" ],
+		"name" : "ITKIONIFTI"
+	}
+}

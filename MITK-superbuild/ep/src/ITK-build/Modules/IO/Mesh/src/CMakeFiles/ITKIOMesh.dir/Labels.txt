@@ -1,0 +1,20 @@
+# Target labels
+ ITKIOMesh
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkBYUMeshIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkBYUMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkFreeSurferAsciiMeshIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkFreeSurferAsciiMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkFreeSurferBinaryMeshIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkFreeSurferBinaryMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkGiftiMeshIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkGiftiMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkMeshIOBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkOBJMeshIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkOBJMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkOFFMeshIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkOFFMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkVTKPolyDataMeshIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/itkVTKPolyDataMeshIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/Mesh/src/CMakeLists.txt

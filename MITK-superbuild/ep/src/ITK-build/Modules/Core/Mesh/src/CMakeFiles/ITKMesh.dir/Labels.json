@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/Mesh/src/itkMeshRegion.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/Mesh/src/itkSimplexMeshGeometry.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/Mesh/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKMesh" ],
+		"name" : "ITKMesh"
+	}
+}

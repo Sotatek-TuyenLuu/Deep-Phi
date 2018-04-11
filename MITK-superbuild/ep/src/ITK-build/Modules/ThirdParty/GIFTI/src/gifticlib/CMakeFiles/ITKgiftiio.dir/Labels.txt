@@ -1,0 +1,6 @@
+# Target labels
+ ITKGIFTI
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/GIFTI/src/gifticlib/gifti_io.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/GIFTI/src/gifticlib/gifti_xml.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/GIFTI/src/gifticlib/CMakeLists.txt

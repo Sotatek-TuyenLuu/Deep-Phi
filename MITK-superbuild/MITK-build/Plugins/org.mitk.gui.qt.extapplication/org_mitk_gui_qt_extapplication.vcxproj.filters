@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkExtApplication.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkExtApplicationPlugin.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkExtAppWorkbenchAdvisor.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkMitkWorkbenchIntroPart.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\QmitkEditorPerspective.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\QmitkExtDefaultPerspective.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\QmitkVisualizationPerspective.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\src\internal\moc_QmitkExtApplication.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\src\internal\moc_QmitkExtApplicationPlugin.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\src\internal\moc_QmitkMitkWorkbenchIntroPart.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\moc_QmitkEditorPerspective.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\moc_QmitkExtDefaultPerspective.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\moc_QmitkVisualizationPerspective.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\qrc_QmitkExtApplication.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\qrc_QmitkWelcomeScreenView.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\qrc_org_mitk_gui_qt_extapplication_manifest.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\qrc_org_mitk_gui_qt_extapplication_cached.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkExtApplication.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkExtApplicationPlugin.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkExtAppWorkbenchAdvisor.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\QmitkMitkWorkbenchIntroPart.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\QmitkEditorPerspective.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\QmitkExtDefaultPerspective.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\QmitkVisualizationPerspective.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\ui_QmitkWelcomeScreenViewControls.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\8ce65d6e09d8fe6c61e5dac850beadd3\moc_QmitkExtApplication.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\8ce65d6e09d8fe6c61e5dac850beadd3\moc_QmitkExtApplicationPlugin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\8ce65d6e09d8fe6c61e5dac850beadd3\moc_QmitkMitkWorkbenchIntroPart.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\088293ee6f11525d121aa428c11f48b9\moc_QmitkEditorPerspective.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\088293ee6f11525d121aa428c11f48b9\moc_QmitkExtDefaultPerspective.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\088293ee6f11525d121aa428c11f48b9\moc_QmitkVisualizationPerspective.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\src\internal\perspectives\QmitkWelcomeScreenViewControls.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\resources\QmitkExtApplication.qrc">
+      <Filter>Qt Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.extapplication\resources\welcome\QmitkWelcomeScreenView.qrc">
+      <Filter>Qt Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\org_mitk_gui_qt_extapplication_manifest.qrc" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.extapplication\org_mitk_gui_qt_extapplication_cached.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F9D7BD44-F46A-3074-94FA-ACB39BC09607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{F74E9849-2BD8-37FC-AB16-9CC15E842EFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QT UI Files">
+      <UniqueIdentifier>{08BFE8F8-7F0B-3A8F-9654-3A8C3C3E9AA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Qt Resource Files">
+      <UniqueIdentifier>{8974D2DA-81AF-3644-849B-B74A6245BA35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{B6896CC9-2DEA-38D0-826B-A636B6701822}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

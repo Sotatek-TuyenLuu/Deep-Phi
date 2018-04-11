@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\Qwt\designer\qwt_designer_plotdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\Qwt\designer\qwt_designer_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\Qwt-build\designer\moc_qwt_designer_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\Qwt-build\designer\moc_qwt_designer_plotdialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\Qwt-build\qrc_qwt_designer_plugin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\Qwt\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\Qwt-build\CMakeFiles\68d46395a352192b10ef62c7f17523eb\moc_qwt_designer_plugin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\Qwt-build\CMakeFiles\68d46395a352192b10ef62c7f17523eb\moc_qwt_designer_plotdialog.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\Qwt\designer\qwt_designer_plugin.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{0F1D4555-67CC-3BC9-8747-92920CA37791}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9353BAE8-1509-3D8C-B079-252C3D477A37}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

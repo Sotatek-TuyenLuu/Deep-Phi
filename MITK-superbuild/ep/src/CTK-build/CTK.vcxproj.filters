@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\90ba5b113ca63df7fcfddccddb131b4c\CTK-forcebuild.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\fdfd82991bcb65606cb0a6d11b44276b\CTK-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\17c0f4a1e1adc6981a134d52423531ff\CTK.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK-superbuild\ep\src\CTK-build\CMakeFiles\CTK" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B5EF90BD-1676-3838-BB93-3565F4A355D3}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

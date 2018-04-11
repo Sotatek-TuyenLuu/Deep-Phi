@@ -1,0 +1,39 @@
+# Target labels
+ vtkIOInfovis
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkBiomTableReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkChacoGraphReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkDelimitedTextReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkDIMACSGraphReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkDIMACSGraphWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkFixedWidthTextReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkISIReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkMultiNewickTreeReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkNewickTreeReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkNewickTreeWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkPhyloXMLTreeReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkPhyloXMLTreeWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkRISReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkTulipReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkXGMLReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkXMLTreeReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkBiomTableReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkChacoGraphReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkDelimitedTextReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkDIMACSGraphReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkDIMACSGraphWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkFixedWidthTextReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkISIReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkMultiNewickTreeReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkNewickTreeReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkNewickTreeWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkPhyloXMLTreeReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkPhyloXMLTreeWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkRISReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkTulipReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkXGMLReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/vtkXMLTreeReader.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Infovis/vtkIOInfovisModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Infovis/vtkIOInfovisInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Infovis/vtkIOInfovisInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt

@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{AECDA0E6-E5DF-3C38-AD0D-C8B6D465C748}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>vtkIOInfovis</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>DynamicLibrary</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\bin\Debug\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">vtkIOInfovis.dir\Debug\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">vtkIOInfovis-6.2d</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">.dll</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\bin\Release\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">vtkIOInfovis.dir\Release\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">vtkIOInfovis-6.2</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">.dll</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\bin\MinSizeRel\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">vtkIOInfovis.dir\MinSizeRel\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">vtkIOInfovis-6.2</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">.dll</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">true</GenerateManifest>
+      <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\bin\RelWithDebInfo\</OutDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">vtkIOInfovis.dir\RelWithDebInfo\</IntDir>
+      <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">vtkIOInfovis-6.2</TargetName>
+      <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">.dll</TargetExt>
+      <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</LinkIncremental>
+      <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">true</GenerateManifest>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Debug/</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR="Debug";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;_DEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR=\"Debug\";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\Debug\vtkIOLegacy-6.2d.lib;..\..\lib\Debug\vtkIOXML-6.2d.lib;..\..\lib\Debug\vtkInfovisCore-6.2d.lib;..\..\lib\Debug\vtklibxml2-6.2d.lib;..\..\lib\Debug\vtkIOGeometry-6.2d.lib;..\..\lib\Debug\vtkIOXMLParser-6.2d.lib;..\..\lib\Debug\vtkIOCore-6.2d.lib;..\..\lib\Debug\vtkFiltersExtraction-6.2d.lib;..\..\lib\Debug\vtkFiltersStatistics-6.2d.lib;..\..\lib\Debug\vtkImagingFourier-6.2d.lib;..\..\lib\Debug\vtkImagingCore-6.2d.lib;..\..\lib\Debug\vtkalglib-6.2d.lib;..\..\lib\Debug\vtkFiltersGeneral-6.2d.lib;..\..\lib\Debug\vtkFiltersCore-6.2d.lib;..\..\lib\Debug\vtkCommonExecutionModel-6.2d.lib;..\..\lib\Debug\vtkCommonComputationalGeometry-6.2d.lib;..\..\lib\Debug\vtkCommonDataModel-6.2d.lib;..\..\lib\Debug\vtkCommonMisc-6.2d.lib;..\..\lib\Debug\vtkCommonTransforms-6.2d.lib;..\..\lib\Debug\vtkCommonSystem-6.2d.lib;..\..\lib\Debug\vtksys-6.2d.lib;ws2_32.lib;Psapi.lib;..\..\lib\Debug\vtkCommonMath-6.2d.lib;..\..\lib\Debug\vtkCommonCore-6.2d.lib;..\..\lib\Debug\vtkzlib-6.2d.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MITK-superbuild/ep/src/VTK-build/lib/Debug/vtkIOInfovis-6.2d.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MITK-superbuild/ep/src/VTK-build/bin/Debug/vtkIOInfovis-6.2d.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>Release/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR="Release";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR=\"Release\";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\Release\vtkIOLegacy-6.2.lib;..\..\lib\Release\vtkIOXML-6.2.lib;..\..\lib\Release\vtkInfovisCore-6.2.lib;..\..\lib\Release\vtklibxml2-6.2.lib;..\..\lib\Release\vtkIOGeometry-6.2.lib;..\..\lib\Release\vtkIOXMLParser-6.2.lib;..\..\lib\Release\vtkIOCore-6.2.lib;..\..\lib\Release\vtkFiltersExtraction-6.2.lib;..\..\lib\Release\vtkFiltersStatistics-6.2.lib;..\..\lib\Release\vtkImagingFourier-6.2.lib;..\..\lib\Release\vtkImagingCore-6.2.lib;..\..\lib\Release\vtkalglib-6.2.lib;..\..\lib\Release\vtkFiltersGeneral-6.2.lib;..\..\lib\Release\vtkFiltersCore-6.2.lib;..\..\lib\Release\vtkCommonExecutionModel-6.2.lib;..\..\lib\Release\vtkCommonComputationalGeometry-6.2.lib;..\..\lib\Release\vtkCommonDataModel-6.2.lib;..\..\lib\Release\vtkCommonMisc-6.2.lib;..\..\lib\Release\vtkCommonTransforms-6.2.lib;..\..\lib\Release\vtkCommonSystem-6.2.lib;..\..\lib\Release\vtksys-6.2.lib;ws2_32.lib;Psapi.lib;..\..\lib\Release\vtkCommonMath-6.2.lib;..\..\lib\Release\vtkCommonCore-6.2.lib;..\..\lib\Release\vtkzlib-6.2.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MITK-superbuild/ep/src/VTK-build/lib/Release/vtkIOInfovis-6.2.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MITK-superbuild/ep/src/VTK-build/bin/Release/vtkIOInfovis-6.2.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>MinSizeRel/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR="MinSizeRel";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat></DebugInformationFormat>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR=\"MinSizeRel\";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\MinSizeRel\vtkIOLegacy-6.2.lib;..\..\lib\MinSizeRel\vtkIOXML-6.2.lib;..\..\lib\MinSizeRel\vtkInfovisCore-6.2.lib;..\..\lib\MinSizeRel\vtklibxml2-6.2.lib;..\..\lib\MinSizeRel\vtkIOGeometry-6.2.lib;..\..\lib\MinSizeRel\vtkIOXMLParser-6.2.lib;..\..\lib\MinSizeRel\vtkIOCore-6.2.lib;..\..\lib\MinSizeRel\vtkFiltersExtraction-6.2.lib;..\..\lib\MinSizeRel\vtkFiltersStatistics-6.2.lib;..\..\lib\MinSizeRel\vtkImagingFourier-6.2.lib;..\..\lib\MinSizeRel\vtkImagingCore-6.2.lib;..\..\lib\MinSizeRel\vtkalglib-6.2.lib;..\..\lib\MinSizeRel\vtkFiltersGeneral-6.2.lib;..\..\lib\MinSizeRel\vtkFiltersCore-6.2.lib;..\..\lib\MinSizeRel\vtkCommonExecutionModel-6.2.lib;..\..\lib\MinSizeRel\vtkCommonComputationalGeometry-6.2.lib;..\..\lib\MinSizeRel\vtkCommonDataModel-6.2.lib;..\..\lib\MinSizeRel\vtkCommonMisc-6.2.lib;..\..\lib\MinSizeRel\vtkCommonTransforms-6.2.lib;..\..\lib\MinSizeRel\vtkCommonSystem-6.2.lib;..\..\lib\MinSizeRel\vtksys-6.2.lib;ws2_32.lib;Psapi.lib;..\..\lib\MinSizeRel\vtkCommonMath-6.2.lib;..\..\lib\MinSizeRel\vtkCommonCore-6.2.lib;..\..\lib\MinSizeRel\vtkzlib-6.2.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MITK-superbuild/ep/src/VTK-build/lib/MinSizeRel/vtkIOInfovis-6.2.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MITK-superbuild/ep/src/VTK-build/bin/MinSizeRel/vtkIOInfovis-6.2.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <ClCompile>
+      <AdditionalOptions> /bigobj %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>RelWithDebInfo/</AssemblerListingLocation>
+      <CompileAs>CompileAsCpp</CompileAs>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <RuntimeTypeInfo>true</RuntimeTypeInfo>
+      <WarningLevel>Level4</WarningLevel>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR="RelWithDebInfo";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>WIN32;_WINDOWS;NDEBUG;_CRT_SECURE_NO_DEPRECATE;_CRT_NONSTDC_NO_DEPRECATE;_CRT_SECURE_NO_WARNINGS;_SCL_SECURE_NO_DEPRECATE;_SCL_SECURE_NO_WARNINGS;VTK_IN_VTK;CMAKE_INTDIR=\"RelWithDebInfo\";vtkIOInfovis_EXPORTS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\VTK-build\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK\Common\DataModel;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Math;E:\B\MITK-superbuild\ep\src\VTK\Common\Math;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Core;E:\B\MITK-superbuild\ep\src\VTK\Common\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK\Utilities\KWSys;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK\Common\Misc;E:\B\MITK-superbuild\ep\src\VTK-build\Common\System;E:\B\MITK-superbuild\ep\src\VTK\Common\System;E:\B\MITK-superbuild\ep\src\VTK-build\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK\Common\Transforms;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Core;E:\B\MITK-superbuild\ep\src\VTK\IO\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK\Common\ExecutionModel;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\zlib;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK\IO\Legacy;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XML;E:\B\MITK-superbuild\ep\src\VTK\IO\XML;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK\IO\Geometry;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\jsoncpp;E:\B\MITK-superbuild\ep\src\VTK-build\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK\IO\XMLParser;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\expat;E:\B\MITK-superbuild\ep\src\VTK-build\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK\Infovis\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK\Filters\Extraction;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK\Filters\Core;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\General;E:\B\MITK-superbuild\ep\src\VTK\Filters\General;E:\B\MITK-superbuild\ep\src\VTK-build\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK\Common\ComputationalGeometry;E:\B\MITK-superbuild\ep\src\VTK-build\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK\Filters\Statistics;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Fourier;E:\B\MITK-superbuild\ep\src\VTK-build\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK\Imaging\Core;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\alglib;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2\vtklibxml2;E:\B\MITK-superbuild\ep\src\VTK-build\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK\ThirdParty\libxml2;E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <Link>
+      <AdditionalOptions> /machine:X86 %(AdditionalOptions)</AdditionalOptions>
+      <AdditionalDependencies>kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib;..\..\lib\RelWithDebInfo\vtkIOLegacy-6.2.lib;..\..\lib\RelWithDebInfo\vtkIOXML-6.2.lib;..\..\lib\RelWithDebInfo\vtkInfovisCore-6.2.lib;..\..\lib\RelWithDebInfo\vtklibxml2-6.2.lib;..\..\lib\RelWithDebInfo\vtkIOGeometry-6.2.lib;..\..\lib\RelWithDebInfo\vtkIOXMLParser-6.2.lib;..\..\lib\RelWithDebInfo\vtkIOCore-6.2.lib;..\..\lib\RelWithDebInfo\vtkFiltersExtraction-6.2.lib;..\..\lib\RelWithDebInfo\vtkFiltersStatistics-6.2.lib;..\..\lib\RelWithDebInfo\vtkImagingFourier-6.2.lib;..\..\lib\RelWithDebInfo\vtkImagingCore-6.2.lib;..\..\lib\RelWithDebInfo\vtkalglib-6.2.lib;..\..\lib\RelWithDebInfo\vtkFiltersGeneral-6.2.lib;..\..\lib\RelWithDebInfo\vtkFiltersCore-6.2.lib;..\..\lib\RelWithDebInfo\vtkCommonExecutionModel-6.2.lib;..\..\lib\RelWithDebInfo\vtkCommonComputationalGeometry-6.2.lib;..\..\lib\RelWithDebInfo\vtkCommonDataModel-6.2.lib;..\..\lib\RelWithDebInfo\vtkCommonMisc-6.2.lib;..\..\lib\RelWithDebInfo\vtkCommonTransforms-6.2.lib;..\..\lib\RelWithDebInfo\vtkCommonSystem-6.2.lib;..\..\lib\RelWithDebInfo\vtksys-6.2.lib;ws2_32.lib;Psapi.lib;..\..\lib\RelWithDebInfo\vtkCommonMath-6.2.lib;..\..\lib\RelWithDebInfo\vtkCommonCore-6.2.lib;..\..\lib\RelWithDebInfo\vtkzlib-6.2.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>E:/B/MITK-superbuild/ep/src/VTK-build/lib/RelWithDebInfo/vtkIOInfovis-6.2.lib</ImportLibrary>
+      <ProgramDataBaseFile>E:/B/MITK-superbuild/ep/src/VTK-build/bin/RelWithDebInfo/vtkIOInfovis-6.2.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+      <Version></Version>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/VTK -BE:/B/MITK-superbuild/ep/src/VTK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonDataModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMath.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtksys.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMisc.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonSystem.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonTransforms.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonExecutionModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkzlib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOLegacy.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXML.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkjsoncpp.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXMLParser.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkexpat.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkInfovisCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersExtraction.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersGeneral.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonComputationalGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersStatistics.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingFourier.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkalglib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtklibxml2.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.h.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.cxx.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\exportheader.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleHeaders.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/VTK -BE:/B/MITK-superbuild/ep/src/VTK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonDataModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMath.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtksys.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMisc.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonSystem.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonTransforms.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonExecutionModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkzlib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOLegacy.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXML.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkjsoncpp.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXMLParser.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkexpat.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkInfovisCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersExtraction.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersGeneral.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonComputationalGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersStatistics.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingFourier.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkalglib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtklibxml2.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.h.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.cxx.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\exportheader.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleHeaders.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/VTK -BE:/B/MITK-superbuild/ep/src/VTK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonDataModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMath.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtksys.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMisc.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonSystem.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonTransforms.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonExecutionModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkzlib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOLegacy.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXML.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkjsoncpp.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXMLParser.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkexpat.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkInfovisCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersExtraction.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersGeneral.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonComputationalGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersStatistics.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingFourier.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkalglib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtklibxml2.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.h.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.cxx.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\exportheader.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleHeaders.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/VTK -BE:/B/MITK-superbuild/ep/src/VTK-build --check-stamp-file E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:/B/MITK-superbuild/ep/src/VTK/IO/Infovis/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonDataModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMath.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtksys.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonMisc.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonSystem.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonTransforms.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonExecutionModel.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkzlib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOLegacy.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXML.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkjsoncpp.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkIOXMLParser.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkexpat.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkInfovisCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersExtraction.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersGeneral.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkCommonComputationalGeometry.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkFiltersStatistics.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingFourier.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkImagingCore.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtkalglib.cmake;E:\B\MITK-superbuild\ep\src\VTK-build\lib\cmake\vtk-6.2\Modules\vtklibxml2.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.h.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkMakeInstantiator.cxx.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\exportheader.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\module.cmake;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleInfo.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\CMake\vtkModuleHeaders.cmake.in;E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkBiomTableReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkChacoGraphReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkDelimitedTextReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkDIMACSGraphReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkDIMACSGraphWriter.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkFixedWidthTextReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkISIReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkMultiNewickTreeReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkNewickTreeReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkNewickTreeWriter.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkPhyloXMLTreeReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkPhyloXMLTreeWriter.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkRISReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkTulipReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkXGMLReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkXMLTreeReader.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\vtkIOInfovisModule.h" />
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\vtkIOInfovisInstantiator.h" />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkBiomTableReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkChacoGraphReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkDelimitedTextReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkDIMACSGraphReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkDIMACSGraphWriter.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkFixedWidthTextReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkISIReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkMultiNewickTreeReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkNewickTreeReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkNewickTreeWriter.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkPhyloXMLTreeReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkPhyloXMLTreeWriter.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkRISReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkTulipReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkXGMLReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\IO\Infovis\vtkXMLTreeReader.cxx"  />
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\IO\Infovis\vtkIOInfovisInstantiator.cxx"  />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/ZERO_CHECK.vcxproj">
+      <Project>FC657FB3-3724-3DE4-8787-C19B69298B08</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/ComputationalGeometry/vtkCommonComputationalGeometry.vcxproj">
+      <Project>9CCAC312-334D-3B07-9901-6625D1314DD8</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/Core/vtkCommonCore.vcxproj">
+      <Project>1BA2E798-2A19-3E78-920E-72145F4799DF</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/DataModel/vtkCommonDataModel.vcxproj">
+      <Project>E1CA00E8-E730-33AC-88D0-C57FA41C356E</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/ExecutionModel/vtkCommonExecutionModel.vcxproj">
+      <Project>FF8C2801-9DA2-3B85-B74D-04ADAD271A38</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/Math/vtkCommonMath.vcxproj">
+      <Project>AE960EE8-A4CE-3A0A-B453-2AE3BF500813</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/Misc/vtkCommonMisc.vcxproj">
+      <Project>71BCD1F1-EFE5-3563-8F6C-29D46B473193</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/System/vtkCommonSystem.vcxproj">
+      <Project>91547E92-5D3E-3FD5-A8B5-E04957AE660E</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Common/Transforms/vtkCommonTransforms.vcxproj">
+      <Project>28AC3359-4BDC-3230-A08D-410F968E8FB8</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Core/vtkFiltersCore.vcxproj">
+      <Project>6B048C4C-CD56-36E7-93ED-5728C62A8F4F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Extraction/vtkFiltersExtraction.vcxproj">
+      <Project>C1B855BE-60B8-30E1-9021-4408094E7E0E</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Filters/General/vtkFiltersGeneral.vcxproj">
+      <Project>56D2D267-6002-352B-A62F-609C7F14ABF7</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Statistics/vtkFiltersStatistics.vcxproj">
+      <Project>942CC949-46A4-363D-91B1-1F07590FF400</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/IO/Core/vtkIOCore.vcxproj">
+      <Project>25DC0391-9C00-393F-A66B-319E230F6419</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/IO/Geometry/vtkIOGeometry.vcxproj">
+      <Project>F276F451-7733-33EE-A7CF-64BE589DF392</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/IO/Legacy/vtkIOLegacy.vcxproj">
+      <Project>36F03416-8A18-3E80-AC0E-02A2E6A952FF</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/IO/XML/vtkIOXML.vcxproj">
+      <Project>B701A554-36F2-3D26-989D-602E7D947372</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/IO/XMLParser/vtkIOXMLParser.vcxproj">
+      <Project>460A9496-D3B4-35BC-A918-5CFC586A42DE</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Core/vtkImagingCore.vcxproj">
+      <Project>4E5D7F67-2366-3702-BF1F-13CA3D84CA4E</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Fourier/vtkImagingFourier.vcxproj">
+      <Project>B9DF8E36-9B02-362F-9459-6DB087E5AAAF</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Infovis/Core/vtkInfovisCore.vcxproj">
+      <Project>9FA96DB0-77D6-3BC4-AB1E-7A4CB157A4D4</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/ThirdParty/alglib/vtkalglib.vcxproj">
+      <Project>B987E617-237A-3EB8-9A77-758EFCCAB27F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/ThirdParty/libxml2/vtklibxml2/vtklibxml2.vcxproj">
+      <Project>31C577AD-FA37-3DEB-A227-1FA6C0021F25</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/Utilities/KWSys/vtksys/vtksys.vcxproj">
+      <Project>AC0B574D-F01B-3585-AB50-8EE489A04C19</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/VTK-build/ThirdParty/zlib/vtkzlib/vtkzlib.vcxproj">
+      <Project>4918165F-DEBE-3052-A0F8-91E5F0BE7D9C</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

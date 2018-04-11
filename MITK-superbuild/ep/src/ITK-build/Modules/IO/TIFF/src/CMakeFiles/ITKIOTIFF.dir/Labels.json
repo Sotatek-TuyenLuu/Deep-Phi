@@ -1,0 +1,27 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/itkTIFFImageIO.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/itkTIFFReaderInternal.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/itkTIFFImageIOFactory.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKIOTIFF" ],
+		"name" : "ITKIOTIFF"
+	}
+}

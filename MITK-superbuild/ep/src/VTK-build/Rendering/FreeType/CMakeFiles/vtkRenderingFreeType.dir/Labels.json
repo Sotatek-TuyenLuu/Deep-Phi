@@ -1,0 +1,147 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeStringToImage.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeUtilities.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeTools.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextFreeTypeTextRenderer.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextUtilities.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkTextRendererStringToImage.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkScaledTextActor.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkVectorText.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeObjectFactory.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial_bold.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial_bold_italic.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial_italic.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier_bold.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier_bold_italic.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier_italic.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times_bold.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times_bold_italic.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times_italic.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeStringToImage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeUtilities.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeTools.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextFreeTypeTextRenderer.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextUtilities.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkTextRendererStringToImage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkScaledTextActor.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkVectorText.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeObjectFactory.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeInstantiator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeInstantiator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkRenderingFreeType" ],
+		"name" : "vtkRenderingFreeType"
+	}
+}

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\GDCM-build\CMakeFiles\22bc949cdc7c3fc565de9a7c73cf58aa\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{716FC911-A878-35F3-B16F-BDB626F58108}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,26 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK/Modules/IOExt/CMakeLists.txt
+E:/B/MITK/Modules/IOExt/files.cmake
+E:/B/MITK-superbuild/MITK-build/Modules/CppMicroServices/CppMicroServicesConfigVersion.cmake
+E:/B/MITK-superbuild/MITK-build/Modules/CppMicroServices/CppMicroServicesConfig.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/CMakeParseArguments.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/usFunctionGenerateModuleInit.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/usFunctionAddResources.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/usFunctionCheckCompilerFlags.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckCXXCompilerFlag.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CheckCXXSourceCompiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/usFunctionEmbedResources.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/usFunctionCheckResourceLinking.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/usFunctionGetResourceSource.cmake
+E:/B/MITK-superbuild/MITK-build/Modules/CppMicroServices/usCoreConfigVersion.cmake
+E:/B/MITK-superbuild/MITK-build/Modules/CppMicroServices/usCoreConfig.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/usModuleInit.cpp
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/exportheader.cmake.in
+E:/B/MITK/CMake/PackageDepends/MITK_VTK_Config.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/vtk-6.2/VTKConfigVersion.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/vtk-6.2/VTKConfig.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/vtk-6.2/vtkModuleAPI.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.5/Modules/CMakeConfigurableFile.in
+C:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5Widgets/Qt5WidgetsConfigVersion.cmake
+C:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5Widgets/Qt5WidgetsConfig.cmake

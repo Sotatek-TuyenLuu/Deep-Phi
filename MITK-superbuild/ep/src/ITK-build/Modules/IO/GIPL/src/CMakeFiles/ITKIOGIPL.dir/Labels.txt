@@ -1,0 +1,6 @@
+# Target labels
+ ITKIOGIPL
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/GIPL/src/itkGiplImageIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/GIPL/src/itkGiplImageIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/GIPL/src/CMakeLists.txt

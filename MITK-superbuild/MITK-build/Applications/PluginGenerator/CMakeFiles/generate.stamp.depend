@@ -1,0 +1,8 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK/Applications/PluginGenerator/CMakeLists.txt
+C:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake
+C:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake
+E:/B/MITK/Applications/PluginGenerator/PluginGeneratorConfig.h.in
+E:/B/MITK/Applications/PluginGenerator/plugin_template.qrc
+E:/B/MITK/Applications/PluginGenerator/project_template.qrc
+E:/B/MITK/CMake/mitkTestPluginGenerator.cmake

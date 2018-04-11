@@ -1,0 +1,28 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkAbstractRenderEditor.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkAbstractView.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkDataNodeSelectionProvider.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkDnDFrameWidget.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkCommonActivator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkDataNodeItemModel.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkDataNodeSelection.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkViewCoordinator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkAbstractRenderEditor.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkAbstractView.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkDataNodeSelectionProvider.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/QmitkDnDFrameWidget.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkCommonActivator.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkDataNodeItemModel.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkDataNodeSelection.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/src/internal/QmitkViewCoordinator.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common/src/moc_QmitkAbstractRenderEditor.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common/src/moc_QmitkDnDFrameWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common/src/internal/moc_QmitkCommonActivator.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common/qrc_org_mitk_gui_qt_common_manifest.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/719c299eaa7d6ad7ff07f67d35c39e3f/moc_QmitkAbstractRenderEditor.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/719c299eaa7d6ad7ff07f67d35c39e3f/moc_QmitkDnDFrameWidget.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e341e87c69f5a4a32b2fb221e708a42/moc_QmitkCommonActivator.cpp.rule
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common/org_mitk_gui_qt_common_manifest.qrc

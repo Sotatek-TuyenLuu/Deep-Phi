@@ -1,0 +1,10 @@
+-IE:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Core
+-IE:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Core
+-IE:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Core/Resources/UI
+-IE:/B/MITK-superbuild/ep/src/CTK-build/CTK-build
+-IE:/B/MITK-superbuild/ep/src/CTK/Libs/Core
+-IE:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/Core
+-DWIN32
+-o
+E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Core/moc_ctkCmdLineModuleFrontend.cpp
+E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Core/ctkCmdLineModuleFrontend.h

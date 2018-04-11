@@ -1,0 +1,307 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCollectGraph.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCollectPolyData.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCollectTable.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCutMaterial.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkDuplicatePolyData.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractCTHPart.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractPolyDataPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractUnstructuredGridPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractUserDefinedPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPCellDataToPointData.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPExtractArraysOverTime.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPKdTree.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPLinearExtrusionFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPMaskPoints.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPOutlineCornerFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPOutlineFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPOutlineFilterInternals.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPPolyDataNormals.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPProbeFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPProjectSphereFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPReflectionFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPResampleFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPSphereSource.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPYoungsMaterialInterface.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPassThroughFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPieceRequestFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPieceScalars.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPipelineSize.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkProcessIdScalars.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkRectilinearGridOutlineFilter.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitPolyDataPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitStructuredDataPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitRectilinearGridPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitStructuredGridPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitUnstructuredGridPiece.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCollectGraph.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCollectPolyData.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCollectTable.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkCutMaterial.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkDuplicatePolyData.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractCTHPart.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractPolyDataPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractUnstructuredGridPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkExtractUserDefinedPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPCellDataToPointData.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPExtractArraysOverTime.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPKdTree.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPLinearExtrusionFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPMaskPoints.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPOutlineCornerFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPOutlineFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPOutlineFilterInternals.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPPolyDataNormals.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPProbeFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPProjectSphereFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPReflectionFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPResampleFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPSphereSource.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPYoungsMaterialInterface.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPassThroughFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPieceRequestFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPieceScalars.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkPipelineSize.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkProcessIdScalars.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkRectilinearGridOutlineFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitPolyDataPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitStructuredDataPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitRectilinearGridPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitStructuredGridPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/vtkTransmitUnstructuredGridPiece.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Parallel/vtkFiltersParallelModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Parallel/vtkFiltersParallelInstantiator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Parallel/vtkFiltersParallelInstantiator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Filters/Parallel/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkFiltersParallel" ],
+		"name" : "vtkFiltersParallel"
+	}
+}

@@ -1,0 +1,8 @@
+# Target labels
+ ITKKLMRegionGrowing
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationRegion.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationRegion.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationBorder.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationBorder.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/CMakeLists.txt

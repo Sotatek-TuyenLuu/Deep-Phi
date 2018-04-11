@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtOpenGL/QVTKGraphicsItem.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtOpenGL/QVTKWidget2.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/GUISupport/QtOpenGL/moc_QVTKGraphicsItem.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/GUISupport/QtOpenGL/moc_QVTKWidget2.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtOpenGL/QVTKGraphicsItem.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtOpenGL/QVTKWidget2.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/GUISupport/QtOpenGL/vtkGUISupportQtOpenGLModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtOpenGL/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/fc311618c6ee75a8c89b299085e9ce81/moc_QVTKGraphicsItem.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/fc311618c6ee75a8c89b299085e9ce81/moc_QVTKWidget2.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkGUISupportQtOpenGL" ],
+		"name" : "vtkGUISupportQtOpenGL"
+	}
+}

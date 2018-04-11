@@ -1,0 +1,17 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionality.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionality2.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionalityCoordinator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkCommonLegacyActivator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkFunctionalityUtil.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionality.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionalityCoordinator.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkCommonLegacyActivator.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkFunctionalityUtil.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common.legacy/src/internal/moc_QmitkCommonLegacyActivator.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common.legacy/qrc_org_mitk_gui_qt_common_legacy_manifest.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/e081714371ebcf846553e3bce3727025/moc_QmitkCommonLegacyActivator.cpp.rule
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common.legacy/org_mitk_gui_qt_common_legacy_manifest.qrc

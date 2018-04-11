@@ -1,0 +1,67 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionality.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionality2.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionalityCoordinator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkCommonLegacyActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkFunctionalityUtil.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionality.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/QmitkFunctionalityCoordinator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkCommonLegacyActivator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/src/internal/QmitkFunctionalityUtil.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common.legacy/src/internal/moc_QmitkCommonLegacyActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common.legacy/qrc_org_mitk_gui_qt_common_legacy_manifest.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.common.legacy/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/e081714371ebcf846553e3bce3727025/moc_QmitkCommonLegacyActivator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.common.legacy/org_mitk_gui_qt_common_legacy_manifest.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Plugins" ],
+		"name" : "org_mitk_gui_qt_common_legacy"
+	}
+}

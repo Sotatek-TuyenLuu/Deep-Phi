@@ -1,0 +1,6 @@
+# Target labels
+ ITKMesh
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/Mesh/src/itkMeshRegion.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/Mesh/src/itkSimplexMeshGeometry.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/Mesh/src/CMakeLists.txt

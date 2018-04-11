@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\Core\TestingHelper\us_init.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\Core\TestingHelper\src\mitkRenderingTestHelper.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\Core\TestingHelper\src\mitkInteractionTestHelper.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Modules\Core\TestingHelper\include\mitkInteractionTestHelper.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\Core\TestingHelper\include\mitkRenderingTestHelper.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\Core\TestingHelper\include\mitkTestCaller.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\Core\TestingHelper\include\mitkTestFixture.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\Core\TestingHelper\include\mitkTestingMacros.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Modules\Core\TestingHelper\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{F74E9849-2BD8-37FC-AB16-9CC15E842EFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

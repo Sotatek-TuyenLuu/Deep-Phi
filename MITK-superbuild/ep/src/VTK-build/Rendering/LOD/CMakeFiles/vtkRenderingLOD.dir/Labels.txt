@@ -1,0 +1,11 @@
+# Target labels
+ vtkRenderingLOD
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkLODActor.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkQuadricLODActor.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkLODActor.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/vtkQuadricLODActor.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/LOD/vtkRenderingLODModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/LOD/vtkRenderingLODInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/LOD/vtkRenderingLODInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/LOD/CMakeLists.txt

@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/DCMTK"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/17c0f4a1e1adc6981a134d52423531ff/DCMTK.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/fdfd82991bcb65606cb0a6d11b44276b/DCMTK-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/538c0310584d8e446ccea3adba7ad19a/DCMTK-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/538c0310584d8e446ccea3adba7ad19a/DCMTK-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/538c0310584d8e446ccea3adba7ad19a/DCMTK-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/538c0310584d8e446ccea3adba7ad19a/DCMTK-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/538c0310584d8e446ccea3adba7ad19a/DCMTK-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/538c0310584d8e446ccea3adba7ad19a/DCMTK-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/538c0310584d8e446ccea3adba7ad19a/DCMTK-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "DCMTK" ],
+		"name" : "DCMTK"
+	}
+}

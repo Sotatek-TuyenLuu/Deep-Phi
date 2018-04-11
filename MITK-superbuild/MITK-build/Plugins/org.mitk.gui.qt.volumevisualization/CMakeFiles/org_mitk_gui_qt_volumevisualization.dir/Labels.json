@@ -1,0 +1,71 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/mitkPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/QmitkVolumeVisualizationView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/mitkPluginActivator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/QmitkVolumeVisualizationView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/moc_mitkPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/moc_QmitkVolumeVisualizationView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/ui_QmitkVolumeVisualizationViewControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/qrc_org_mitk_gui_qt_volumevisualization_manifest.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/qrc_org_mitk_gui_qt_volumevisualization_cached.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/ffb0b915c08646f263dc781b2305c8ec/moc_mitkPluginActivator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/ffb0b915c08646f263dc781b2305c8ec/moc_QmitkVolumeVisualizationView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/QmitkVolumeVisualizationViewControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/org_mitk_gui_qt_volumevisualization_manifest.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/org_mitk_gui_qt_volumevisualization_cached.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Plugins" ],
+		"name" : "org_mitk_gui_qt_volumevisualization"
+	}
+}

@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/CMakeFiles/MyProject-Utilities"
+		},
+		
+		{
+			"file" : "E:/MyProject/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/7176a3b473cc20062284145d12936f32/MyProject-Utilities.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/848d7366bfa76b08ecfecd9146cf938b/MyProject-Utilities-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/1fc83296df8b7c1112c6f330d859d2ea/MyProject-Utilities-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/1fc83296df8b7c1112c6f330d859d2ea/MyProject-Utilities-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/1fc83296df8b7c1112c6f330d859d2ea/MyProject-Utilities-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/1fc83296df8b7c1112c6f330d859d2ea/MyProject-Utilities-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/1fc83296df8b7c1112c6f330d859d2ea/MyProject-Utilities-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/1fc83296df8b7c1112c6f330d859d2ea/MyProject-Utilities-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/1fc83296df8b7c1112c6f330d859d2ea/MyProject-Utilities-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MyProject-Utilities" ],
+		"name" : "MyProject-Utilities"
+	}
+}

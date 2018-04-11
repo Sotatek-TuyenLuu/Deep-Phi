@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\src\itkChainCodePath2D.cxx">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\src\itkOrthogonallyCorrected2DParametricPath.cxx">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\src\itkParametricPath.cxx">
+      <Filter>Source Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkChainCodePath.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkChainCodePath2D.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkChainCodeToFourierSeriesPathFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkExtractOrthogonalSwath2DImageFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkFourierSeriesPath.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkHilbertPath.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkImageAndPathToImageFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkOrthogonallyCorrected2DParametricPath.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkOrthogonalSwath2DPathFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkParametricPath.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPath.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathAndImageToPathFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathConstIterator.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathFunctions.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathIterator.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathSource.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathToChainCodePathFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathToImageFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathToPathFilter.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPolyLineParametricPath.h">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkChainCodePath.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkChainCodeToFourierSeriesPathFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkExtractOrthogonalSwath2DImageFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkFourierSeriesPath.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkHilbertPath.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkImageAndPathToImageFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkOrthogonalSwath2DPathFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkParametricPath.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPath.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathAndImageToPathFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathConstIterator.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathIterator.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathSource.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathToChainCodePathFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathToImageFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPathToPathFilter.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK\Modules\Filtering\Path\include\itkPolyLineParametricPath.hxx">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{246B96C6-FBA6-3256-BE1A-36E2903A5BAB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{7B359C7F-8083-3C55-B291-A79C0123F076}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

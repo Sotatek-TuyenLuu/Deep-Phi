@@ -1,0 +1,14 @@
+# Target labels
+ Poco
+# Source files and their labels
+E:/B/MITK-superbuild/CMakeFiles/Poco
+E:/B/MITK/CMakeLists.txt
+E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/Poco.rule
+E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/Poco-complete.rule
+E:/B/MITK-superbuild/CMakeFiles/b88571964b085a43a0f54c87d3ae9522/Poco-install.rule
+E:/B/MITK-superbuild/CMakeFiles/b88571964b085a43a0f54c87d3ae9522/Poco-mkdir.rule
+E:/B/MITK-superbuild/CMakeFiles/b88571964b085a43a0f54c87d3ae9522/Poco-download.rule
+E:/B/MITK-superbuild/CMakeFiles/b88571964b085a43a0f54c87d3ae9522/Poco-update.rule
+E:/B/MITK-superbuild/CMakeFiles/b88571964b085a43a0f54c87d3ae9522/Poco-patch.rule
+E:/B/MITK-superbuild/CMakeFiles/b88571964b085a43a0f54c87d3ae9522/Poco-configure.rule
+E:/B/MITK-superbuild/CMakeFiles/b88571964b085a43a0f54c87d3ae9522/Poco-build.rule

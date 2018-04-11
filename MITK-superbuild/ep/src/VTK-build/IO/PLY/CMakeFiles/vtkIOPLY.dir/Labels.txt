@@ -1,0 +1,13 @@
+# Target labels
+ vtkIOPLY
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/PLY/vtkPLY.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/PLY/vtkPLYReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/PLY/vtkPLYWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/PLY/vtkPLY.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/PLY/vtkPLYReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/PLY/vtkPLYWriter.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/PLY/vtkIOPLYModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/PLY/vtkIOPLYInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/PLY/vtkIOPLYInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/PLY/CMakeLists.txt

@@ -1,0 +1,7 @@
+# Target labels
+ ITKIOGDCM
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/GDCM/src/itkGDCMImageIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/GDCM/src/itkGDCMImageIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/GDCM/src/itkGDCMSeriesFileNames.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/GDCM/src/CMakeLists.txt

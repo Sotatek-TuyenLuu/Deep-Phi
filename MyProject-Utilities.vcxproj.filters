@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\MyProject\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\CMakeFiles\1fc83296df8b7c1112c6f330d859d2ea\MyProject-Utilities-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\1fc83296df8b7c1112c6f330d859d2ea\MyProject-Utilities-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\1fc83296df8b7c1112c6f330d859d2ea\MyProject-Utilities-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\1fc83296df8b7c1112c6f330d859d2ea\MyProject-Utilities-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\1fc83296df8b7c1112c6f330d859d2ea\MyProject-Utilities-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\1fc83296df8b7c1112c6f330d859d2ea\MyProject-Utilities-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\1fc83296df8b7c1112c6f330d859d2ea\MyProject-Utilities-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\848d7366bfa76b08ecfecd9146cf938b\MyProject-Utilities-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\CMakeFiles\7176a3b473cc20062284145d12936f32\MyProject-Utilities.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\CMakeFiles\MyProject-Utilities" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8805E539-796F-3F10-97C8-89E027E1D9BB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

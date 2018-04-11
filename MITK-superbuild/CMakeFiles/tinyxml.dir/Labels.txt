@@ -1,0 +1,14 @@
+# Target labels
+ tinyxml
+# Source files and their labels
+E:/B/MITK-superbuild/CMakeFiles/tinyxml
+E:/B/MITK/CMakeLists.txt
+E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/tinyxml.rule
+E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/tinyxml-complete.rule
+E:/B/MITK-superbuild/CMakeFiles/fdcd5a160a29d4b699a7cce245c814b7/tinyxml-install.rule
+E:/B/MITK-superbuild/CMakeFiles/fdcd5a160a29d4b699a7cce245c814b7/tinyxml-mkdir.rule
+E:/B/MITK-superbuild/CMakeFiles/fdcd5a160a29d4b699a7cce245c814b7/tinyxml-download.rule
+E:/B/MITK-superbuild/CMakeFiles/fdcd5a160a29d4b699a7cce245c814b7/tinyxml-update.rule
+E:/B/MITK-superbuild/CMakeFiles/fdcd5a160a29d4b699a7cce245c814b7/tinyxml-patch.rule
+E:/B/MITK-superbuild/CMakeFiles/fdcd5a160a29d4b699a7cce245c814b7/tinyxml-configure.rule
+E:/B/MITK-superbuild/CMakeFiles/fdcd5a160a29d4b699a7cce245c814b7/tinyxml-build.rule

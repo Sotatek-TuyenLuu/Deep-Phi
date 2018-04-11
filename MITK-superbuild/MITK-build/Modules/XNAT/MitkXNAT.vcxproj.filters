@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\us_init.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\mitkXnatSessionTracker.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatTreeModel.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatProjectWidget.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatSubjectWidget.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatExperimentWidget.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatCreateObjectDialog.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\QmitkSelectXnatUploadDestinationDialog.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatUploadFromDataStorageDialog.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_mitkXnatSessionTracker.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_QmitkXnatTreeModel.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_QmitkXnatProjectWidget.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_QmitkXnatSubjectWidget.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_QmitkXnatExperimentWidget.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_QmitkXnatCreateObjectDialog.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_QmitkSelectXnatUploadDestinationDialog.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\include\moc_QmitkXnatUploadFromDataStorageDialog.cpp">
+      <Filter>Generated\Qt MOC Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\qrc_xnat.cpp">
+      <Filter>Generated\Qt QRC Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\mitkXnatSession.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\mitkXnatSessionTracker.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\QmitkSelectXnatUploadDestinationDialog.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\QmitkXnatCreateObjectDialog.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\QmitkXnatExperimentWidget.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\QmitkXnatProjectWidget.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\QmitkXnatSubjectWidget.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\QmitkXnatTreeModel.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\XNAT\include\QmitkXnatUploadFromDataStorageDialog.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\ui_QmitkXnatExperimentWidgetControls.h">
+      <Filter>Generated\Qt UI Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\ui_QmitkXnatProjectWidgetControls.h">
+      <Filter>Generated\Qt UI Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\ui_QmitkSelectXnatUploadDestinationDialog.h">
+      <Filter>Generated\Qt UI Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\ui_QmitkXnatSubjectWidgetControls.h">
+      <Filter>Generated\Qt UI Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Modules\XNAT\ui_QmitkXnatUploadFromDataStorageDialog.h">
+      <Filter>Generated\Qt UI Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatExperimentWidgetControls.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatProjectWidgetControls.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Modules\XNAT\src\QmitkSelectXnatUploadDestinationDialog.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatSubjectWidgetControls.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Modules\XNAT\src\QmitkXnatUploadFromDataStorageDialog.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Modules\XNAT\resources\xnat.qrc">
+      <Filter>Qt Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Modules\XNAT\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_mitkXnatSessionTracker.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_QmitkXnatTreeModel.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_QmitkXnatProjectWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_QmitkXnatSubjectWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_QmitkXnatExperimentWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_QmitkXnatCreateObjectDialog.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_QmitkSelectXnatUploadDestinationDialog.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\a555478d55907c4c2d36ab097d449323\moc_QmitkXnatUploadFromDataStorageDialog.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Generated\Qt QRC Source Files">
+      <UniqueIdentifier>{2F30F5E8-08F2-323B-B0FD-2BFC2D1D3008}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated\Qt UI Header Files">
+      <UniqueIdentifier>{369267C4-B362-3C5D-9454-4DF8D2278A34}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated\Qt MOC Source Files">
+      <UniqueIdentifier>{0F85BD35-5644-37EF-8300-16D1D198A25B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F9D7BD44-F46A-3074-94FA-ACB39BC09607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{B6896CC9-2DEA-38D0-826B-A636B6701822}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{F74E9849-2BD8-37FC-AB16-9CC15E842EFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QT UI Files">
+      <UniqueIdentifier>{08BFE8F8-7F0B-3A8F-9654-3A8C3C3E9AA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Qt Resource Files">
+      <UniqueIdentifier>{8974D2DA-81AF-3644-849B-B74A6245BA35}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

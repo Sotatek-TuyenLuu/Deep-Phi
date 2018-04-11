@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\3ad711d215ca693f31735316f6a3c048\MITK-Data-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\3ad711d215ca693f31735316f6a3c048\MITK-Data-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\3ad711d215ca693f31735316f6a3c048\MITK-Data-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\3ad711d215ca693f31735316f6a3c048\MITK-Data-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\3ad711d215ca693f31735316f6a3c048\MITK-Data-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\3ad711d215ca693f31735316f6a3c048\MITK-Data-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\3ad711d215ca693f31735316f6a3c048\MITK-Data-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\0b39df59f477f465f443171dd9825b7c\MITK-Data-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\b99173ec862025cfd82fb2e53ddcb808\MITK-Data.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK-superbuild\CMakeFiles\MITK-Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4CF2ED73-2218-37F1-9FC4-4A73C7697E5D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

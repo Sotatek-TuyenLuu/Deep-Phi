@@ -1,0 +1,45 @@
+# Target labels
+ vtkInteractionStyle
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleDrawPolygon.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleFlight.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleImage.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleJoystickActor.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleJoystickCamera.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleMultiTouchCamera.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBand2D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBand3D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBandPick.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBandZoom.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTerrain.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTrackballActor.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTrackballCamera.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTrackball.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleUnicam.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleUser.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleSwitch.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkParallelCoordinatesInteractorStyle.cxx
+E:/B/MITK-superbuild/ep/src/VTK-build/Interaction/Style/vtkInteractionStyleObjectFactory.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleDrawPolygon.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleFlight.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleImage.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleJoystickActor.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleJoystickCamera.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleMultiTouchCamera.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBand2D.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBand3D.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBandPick.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleRubberBandZoom.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTerrain.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTrackballActor.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTrackballCamera.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleTrackball.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleUnicam.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleUser.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkInteractorStyleSwitch.h
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/vtkParallelCoordinatesInteractorStyle.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Interaction/Style/vtkInteractionStyleObjectFactory.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Interaction/Style/vtkInteractionStyleModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Interaction/Style/vtkInteractionStyleInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Interaction/Style/vtkInteractionStyleInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Interaction/Style/CMakeLists.txt

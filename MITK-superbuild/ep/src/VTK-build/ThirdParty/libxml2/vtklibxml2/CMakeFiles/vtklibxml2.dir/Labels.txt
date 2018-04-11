@@ -1,0 +1,47 @@
+# Target labels
+ vtklibxml2
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/DOCBparser.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/HTMLparser.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/HTMLtree.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/SAX.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/SAX2.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/c14n.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/catalog.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/chvalid.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/debugXML.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/dict.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/encoding.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/entities.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/error.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/globals.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/hash.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/legacy.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/list.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/nanoftp.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/nanohttp.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/parser.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/parserInternals.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/pattern.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/relaxng.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/schematron.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/threads.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/tree.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/uri.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/valid.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xinclude.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xlink.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlIO.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlmemory.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlmodule.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlreader.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlregexp.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlsave.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlschemas.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlschemastypes.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlstring.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlunicode.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlwriter.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xpath.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xpointer.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/CMakeLists.txt

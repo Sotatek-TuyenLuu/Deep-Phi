@@ -1,0 +1,59 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/adler32.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/compress.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/crc32.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/deflate.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/gzio.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/inffast.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/inflate.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/inftrees.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/trees.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/uncompr.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/zutil.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/zlib/vtkzlib/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkzlib" ],
+		"name" : "vtkzlib"
+	}
+}

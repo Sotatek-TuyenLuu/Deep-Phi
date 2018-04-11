@@ -1,0 +1,14 @@
+# Target labels
+ DCMTK
+# Source files and their labels
+E:/B/MITK-superbuild/CMakeFiles/DCMTK
+E:/B/MITK/CMakeLists.txt
+E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/DCMTK.rule
+E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/DCMTK-complete.rule
+E:/B/MITK-superbuild/CMakeFiles/6e868e82b717408377fc514f3f42e3ea/DCMTK-install.rule
+E:/B/MITK-superbuild/CMakeFiles/6e868e82b717408377fc514f3f42e3ea/DCMTK-mkdir.rule
+E:/B/MITK-superbuild/CMakeFiles/6e868e82b717408377fc514f3f42e3ea/DCMTK-download.rule
+E:/B/MITK-superbuild/CMakeFiles/6e868e82b717408377fc514f3f42e3ea/DCMTK-update.rule
+E:/B/MITK-superbuild/CMakeFiles/6e868e82b717408377fc514f3f42e3ea/DCMTK-patch.rule
+E:/B/MITK-superbuild/CMakeFiles/6e868e82b717408377fc514f3f42e3ea/DCMTK-configure.rule
+E:/B/MITK-superbuild/CMakeFiles/6e868e82b717408377fc514f3f42e3ea/DCMTK-build.rule

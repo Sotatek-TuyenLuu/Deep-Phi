@@ -1,0 +1,19 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/Eigen/test/qr_colpivoting.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/Eigen/test/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "BuildOfficial" ],
+		"name" : "qr_colpivoting_5"
+	}
+}

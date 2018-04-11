@@ -1,0 +1,23 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/Watersheds/src/itkWatershedMiniPipelineProgressCommand.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/Watersheds/src/itkOneWayEquivalencyTable.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/Watersheds/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKWatersheds" ],
+		"name" : "ITKWatersheds"
+	}
+}

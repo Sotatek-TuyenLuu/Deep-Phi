@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\mitkPluginActivator.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomBrowser.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomDirectoryListener.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkStoreSCPLauncher.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkStoreSCPLauncherBuilder.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomDataEventPublisher.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\DicomEventHandler.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomPreferencePage.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_mitkPluginActivator.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_QmitkDicomBrowser.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_QmitkDicomDirectoryListener.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_QmitkStoreSCPLauncher.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_QmitkStoreSCPLauncherBuilder.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_QmitkDicomDataEventPublisher.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_DicomEventHandler.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\src\internal\moc_QmitkDicomPreferencePage.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\qrc_dicom.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\qrc_org_mitk_gui_qt_dicom_manifest.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\qrc_org_mitk_gui_qt_dicom_cached.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\mitkPluginActivator.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomBrowser.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomDirectoryListener.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkStoreSCPLauncher.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkStoreSCPLauncherBuilder.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomDataEventPublisher.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\DicomEventHandler.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomPreferencePage.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\ui_QmitkDicomBrowserControls.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\ui_QmitkDicomPreferencePage.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_mitkPluginActivator.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_QmitkDicomBrowser.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_QmitkDicomDirectoryListener.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_QmitkStoreSCPLauncher.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_QmitkStoreSCPLauncherBuilder.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_QmitkDicomDataEventPublisher.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_DicomEventHandler.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\416ee976b6cbe18e912c955294339624\moc_QmitkDicomPreferencePage.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomBrowserControls.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\src\internal\QmitkDicomPreferencePage.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK\Plugins\org.mitk.gui.qt.dicom\resources\dicom.qrc">
+      <Filter>Qt Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\org_mitk_gui_qt_dicom_manifest.qrc" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\Plugins\org.mitk.gui.qt.dicom\org_mitk_gui_qt_dicom_cached.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F9D7BD44-F46A-3074-94FA-ACB39BC09607}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{F74E9849-2BD8-37FC-AB16-9CC15E842EFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QT UI Files">
+      <UniqueIdentifier>{08BFE8F8-7F0B-3A8F-9654-3A8C3C3E9AA5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Qt Resource Files">
+      <UniqueIdentifier>{8974D2DA-81AF-3644-849B-B74A6245BA35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{B6896CC9-2DEA-38D0-826B-A636B6701822}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

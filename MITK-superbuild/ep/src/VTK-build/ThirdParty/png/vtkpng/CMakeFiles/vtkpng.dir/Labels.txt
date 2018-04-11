@@ -1,0 +1,21 @@
+# Target labels
+ vtkpng
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngget.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngrio.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngwrite.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/png.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngmem.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngrtran.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngtrans.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngwtran.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngerror.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngpread.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngrutil.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngvcrd.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngwutil.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pnggccrd.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngread.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngset.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/pngwio.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/png/vtkpng/CMakeLists.txt

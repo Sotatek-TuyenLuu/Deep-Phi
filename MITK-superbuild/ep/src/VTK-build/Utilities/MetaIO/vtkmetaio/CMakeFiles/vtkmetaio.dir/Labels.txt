@@ -1,0 +1,37 @@
+# Target labels
+ vtkMetaIO
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaTypes.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaUtils.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaArrow.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaBlob.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaCommand.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaCommand.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaContour.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaContour.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaDTITube.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaEllipse.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaGroup.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaGaussian.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaImage.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaImageUtils.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaLandmark.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaLine.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaMesh.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaMesh.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaObject.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaOutput.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaOutput.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaScene.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaSurface.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaTube.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaVesselTube.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaTransform.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaTubeGraph.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaForm.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaForm.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaArray.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaArray.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaFEMObject.h
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/metaFEMObject.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/MetaIO/vtkmetaio/CMakeLists.txt

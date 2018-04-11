@@ -1,0 +1,6 @@
+# Target labels
+ ITKWatersheds
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/Watersheds/src/itkWatershedMiniPipelineProgressCommand.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/Watersheds/src/itkOneWayEquivalencyTable.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/Watersheds/src/CMakeLists.txt

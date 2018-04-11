@@ -1,0 +1,37 @@
+# Target labels
+ vtkRenderingFreeType
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeStringToImage.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeUtilities.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeTools.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextFreeTypeTextRenderer.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextUtilities.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkTextRendererStringToImage.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkScaledTextActor.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkVectorText.cxx
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeObjectFactory.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial_bold.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial_bold_italic.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_arial_italic.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier_bold.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier_bold_italic.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_courier_italic.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times_bold.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times_bold_italic.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/fonts/face_times_italic.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeStringToImage.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeUtilities.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkFreeTypeTools.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextFreeTypeTextRenderer.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkMathTextUtilities.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkTextRendererStringToImage.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkScaledTextActor.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/vtkVectorText.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeObjectFactory.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeType/vtkRenderingFreeTypeInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeType/CMakeLists.txt

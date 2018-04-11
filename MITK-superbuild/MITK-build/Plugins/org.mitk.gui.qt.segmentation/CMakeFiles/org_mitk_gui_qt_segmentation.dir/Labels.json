@@ -1,0 +1,391 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/QmitkSegmentationPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/mitkPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkSegmentationView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkThresholdAction.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkCreatePolygonModelAction.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkAutocropAction.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkDeformableClippingPlaneView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/Common/QmitkDataSelectionWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/QmitkSegmentationUtilitiesView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/QmitkSegmentationUtilityWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/BooleanOperations/QmitkBooleanOperationsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ImageMasking/QmitkImageMaskingWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ContourModelToImage/QmitkContourModelToImageWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/MorphologicalOperations/QmitkMorphologicalOperationsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/SurfaceToImage/QmitkSurfaceToImageWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/CTKWidgets/QmitkCTKWidgetsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/QmitkSegmentationPreferencePage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/mitkPluginActivator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkSegmentationView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkThresholdAction.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkCreatePolygonModelAction.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkAutocropAction.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkDeformableClippingPlaneView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/Common/QmitkDataSelectionWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/QmitkSegmentationUtilitiesView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/QmitkSegmentationUtilityWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/BooleanOperations/QmitkBooleanOperationsWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ImageMasking/QmitkImageMaskingWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ContourModelToImage/QmitkContourModelToImageWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/MorphologicalOperations/QmitkMorphologicalOperationsWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/SurfaceToImage/QmitkSurfaceToImageWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/CTKWidgets/QmitkCTKWidgetsWidget.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/moc_QmitkSegmentationPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/moc_mitkPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/moc_QmitkSegmentationView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/moc_QmitkThresholdAction.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/moc_QmitkCreatePolygonModelAction.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/moc_QmitkAutocropAction.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/moc_QmitkDeformableClippingPlaneView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/Common/moc_QmitkDataSelectionWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/moc_QmitkSegmentationUtilitiesView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/moc_QmitkSegmentationUtilityWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/BooleanOperations/moc_QmitkBooleanOperationsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ImageMasking/moc_QmitkImageMaskingWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ContourModelToImage/moc_QmitkContourModelToImageWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/MorphologicalOperations/moc_QmitkMorphologicalOperationsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/SurfaceToImage/moc_QmitkSurfaceToImageWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/CTKWidgets/moc_QmitkCTKWidgetsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkSegmentationControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkDeformableClippingPlaneViewControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkDataSelectionWidgetControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkSegmentationUtilitiesViewControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkBooleanOperationsWidgetControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkImageMaskingWidgetControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkContourModelToImageWidgetControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkMorphologicalOperationsWidgetControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/ui_QmitkSurfaceToImageWidgetControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/qrc_segmentation.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/qrc_SegmentationUtilities.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/qrc_BooleanOperationsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/qrc_MorphologicalOperationsWidget.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/qrc_org_mitk_gui_qt_segmentation_manifest.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/qrc_org_mitk_gui_qt_segmentation_cached.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/9bb901e7b7847b98b7d108a885dc5e0e/moc_QmitkSegmentationPreferencePage.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/9df53451a6885a954ec9ac11c267377b/moc_mitkPluginActivator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/9df53451a6885a954ec9ac11c267377b/moc_QmitkSegmentationView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/9df53451a6885a954ec9ac11c267377b/moc_QmitkThresholdAction.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/9df53451a6885a954ec9ac11c267377b/moc_QmitkCreatePolygonModelAction.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/9df53451a6885a954ec9ac11c267377b/moc_QmitkAutocropAction.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/9df53451a6885a954ec9ac11c267377b/moc_QmitkDeformableClippingPlaneView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/69e23e535d332e171c922aad1bbb7d5d/moc_QmitkDataSelectionWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/6c8b611f3ecdf832d1415eb83a19ca2d/moc_QmitkSegmentationUtilitiesView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/6c8b611f3ecdf832d1415eb83a19ca2d/moc_QmitkSegmentationUtilityWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/7214d423b30347c2c41247605216fa31/moc_QmitkBooleanOperationsWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/ecc1cbc9de75b4d014b827160b0d48ee/moc_QmitkImageMaskingWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/1a7a2f73b5291c693b630c6242d03dfa/moc_QmitkContourModelToImageWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/bd7e5b3d3392d57f4b16be8b6ff9f8cf/moc_QmitkMorphologicalOperationsWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/1239199f3fe5c2ffe324f0fe92ad3c6f/moc_QmitkSurfaceToImageWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/63bda0cb1a9573260eb3f3d49443ed63/moc_QmitkCTKWidgetsWidget.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkSegmentationControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/QmitkDeformableClippingPlaneViewControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/Common/QmitkDataSelectionWidgetControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/QmitkSegmentationUtilitiesViewControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/BooleanOperations/QmitkBooleanOperationsWidgetControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ImageMasking/QmitkImageMaskingWidgetControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/ContourModelToImage/QmitkContourModelToImageWidgetControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/MorphologicalOperations/QmitkMorphologicalOperationsWidgetControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/src/internal/SegmentationUtilities/SurfaceToImage/QmitkSurfaceToImageWidgetControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/resources/segmentation.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/resources/SegmentationUtilities.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/resources/BooleanOperationsWidget.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.segmentation/resources/MorphologicalOperationsWidget.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/org_mitk_gui_qt_segmentation_manifest.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.segmentation/org_mitk_gui_qt_segmentation_cached.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Plugins" ],
+		"name" : "org_mitk_gui_qt_segmentation"
+	}
+}

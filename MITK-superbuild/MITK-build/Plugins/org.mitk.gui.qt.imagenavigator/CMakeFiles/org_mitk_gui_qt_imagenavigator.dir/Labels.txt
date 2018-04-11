@@ -1,0 +1,20 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/QmitkImageNavigatorView.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/mitkImageNavigatorPluginActivator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/QmitkImageNavigatorView.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/mitkImageNavigatorPluginActivator.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/moc_mitkImageNavigatorPluginActivator.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/moc_QmitkImageNavigatorView.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/ui_QmitkImageNavigatorViewControls.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/qrc_QmitkImageNavigatorView.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/qrc_org_mitk_gui_qt_imagenavigator_manifest.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/qrc_org_mitk_gui_qt_imagenavigator_cached.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/31a6ade63f325684210efcf52aef0a62/moc_mitkImageNavigatorPluginActivator.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/31a6ade63f325684210efcf52aef0a62/moc_QmitkImageNavigatorView.cpp.rule
+E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/QmitkImageNavigatorViewControls.ui
+E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/resources/QmitkImageNavigatorView.qrc
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/org_mitk_gui_qt_imagenavigator_manifest.qrc
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/org_mitk_gui_qt_imagenavigator_cached.qrc

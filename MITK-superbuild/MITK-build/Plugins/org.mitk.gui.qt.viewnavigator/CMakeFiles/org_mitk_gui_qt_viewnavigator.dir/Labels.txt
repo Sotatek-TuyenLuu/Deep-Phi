@@ -1,0 +1,22 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/src/QmitkViewNavigatorWidget.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/src/internal/org_mitk_gui_qt_viewnavigator_Activator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/src/internal/ViewNavigatorView.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/src/QmitkViewNavigatorWidget.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/src/internal/org_mitk_gui_qt_viewnavigator_Activator.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/src/internal/ViewNavigatorView.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/src/internal/moc_org_mitk_gui_qt_viewnavigator_Activator.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/src/internal/moc_ViewNavigatorView.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/src/moc_QmitkViewNavigatorWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/ui_QmitkViewNavigatorWidgetControls.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/qrc_org_mitk_gui_qt_viewnavigator_manifest.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/qrc_org_mitk_gui_qt_viewnavigator_cached.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/c9562740c4361152c0fb77d0c7f821d5/moc_org_mitk_gui_qt_viewnavigator_Activator.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/c9562740c4361152c0fb77d0c7f821d5/moc_ViewNavigatorView.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/38c02251ca3747a0a67e63861166e2fa/moc_QmitkViewNavigatorWidget.cpp.rule
+E:/B/MITK/Plugins/org.mitk.gui.qt.viewnavigator/src/QmitkViewNavigatorWidgetControls.ui
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/org_mitk_gui_qt_viewnavigator_manifest.qrc
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.viewnavigator/org_mitk_gui_qt_viewnavigator_cached.qrc

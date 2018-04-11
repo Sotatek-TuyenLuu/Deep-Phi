@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usAny.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usLDAPProp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usSharedLibrary.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usLDAPExpr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usLDAPFilter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceEventListenerHook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceFindHook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceHooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceListenerEntry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceListenerHook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceListeners.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceObjects.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceProperties.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServicePropertiesImpl.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceReferenceBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceReferenceBasePrivate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceRegistrationBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceRegistrationBasePrivate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceRegistry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usCoreModuleActivator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usCoreModuleContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleContext.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModule.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleEvent.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleEventHook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleFindHook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleHooks.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleManifest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModulePrivate.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleRegistry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleResource.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleResourceBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleResourceContainer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleResourceStream.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleSettings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleVersion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\third_party\jsoncpp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK\Modules\CppMicroServices\third_party\miniz.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\us_CppMicroServices\us_resources.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceListenerEntry_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceListeners_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceRegistry_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usCoreModuleContext_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usAtomicInt_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usListenerFunctors_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usLog_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usStaticInit_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usThreads_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usUtils_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\util\usWaitCondition_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceHooks_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceListenerHook_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServicePropertiesImpl_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceTrackerPrivate.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usTrackedService_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usTrackedServiceListener_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleAbstractTracked_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleHooks_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleResourceBuffer_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleResourceContainer_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleUtils_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usAny.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usLDAPProp.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usSharedData.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usSharedLibrary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usShrinkableMap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usShrinkableVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usLDAPFilter.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usPrototypeServiceFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceEventListenerHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceException.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceFindHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceInterface.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceListenerHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceObjects.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceProperties.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceReference.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceReferenceBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceRegistration.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceRegistrationBase.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceTracker.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usServiceTrackerCustomizer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usGetModuleContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleActivator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleContext.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleEvent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleEventHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleFindHook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleImport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleInitialization.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleRegistry.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleResource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleResourceStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleSettings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK\Modules\CppMicroServices\core\include\usModuleVersion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include\usCoreExport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\MITK-build\Modules\CppMicroServices\core\include\usCoreConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\Modules\CppMicroServices\core\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\0f1dbd36ae9733d07aa31aaa300d0101\res_0.zip.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\MITK-build\CMakeFiles\0f1dbd36ae9733d07aa31aaa300d0101\us_resources.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceTracker.tpp" />
+    <None Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usServiceTrackerPrivate.tpp" />
+    <None Include="E:\B\MITK\Modules\CppMicroServices\core\src\service\usTrackedService.tpp" />
+    <None Include="E:\B\MITK\Modules\CppMicroServices\core\src\module\usModuleAbstractTracked.tpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{24BD2D5B-66EC-3212-9B01-0711C77E33D7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{C2E34AB9-48F1-3417-91D6-FCEF82BEB943}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F9D7BD44-F46A-3074-94FA-ACB39BC09607}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

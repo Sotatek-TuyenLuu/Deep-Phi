@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/MITK-Utilities"
+		},
+		
+		{
+			"file" : "E:/B/MITK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/MITK-Utilities.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/MITK-Utilities-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/17d8167d793bbf9e98ad793c22df794d/MITK-Utilities-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/17d8167d793bbf9e98ad793c22df794d/MITK-Utilities-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/17d8167d793bbf9e98ad793c22df794d/MITK-Utilities-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/17d8167d793bbf9e98ad793c22df794d/MITK-Utilities-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/17d8167d793bbf9e98ad793c22df794d/MITK-Utilities-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/17d8167d793bbf9e98ad793c22df794d/MITK-Utilities-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/17d8167d793bbf9e98ad793c22df794d/MITK-Utilities-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Utilities" ],
+		"name" : "MITK-Utilities"
+	}
+}

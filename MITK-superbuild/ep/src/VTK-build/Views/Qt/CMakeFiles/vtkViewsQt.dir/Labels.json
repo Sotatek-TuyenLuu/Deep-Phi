@@ -1,0 +1,123 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtAnnotationView.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtListView.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtRecordView.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtTableRepresentation.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtTableView.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtTreeView.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtView.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Views/Qt/moc_vtkQtAnnotationView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Views/Qt/moc_vtkQtListView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Views/Qt/moc_vtkQtRecordView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Views/Qt/moc_vtkQtTableView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Views/Qt/moc_vtkQtTreeView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Views/Qt/moc_vtkQtView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtAnnotationView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtListView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtRecordView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtTableRepresentation.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtTableView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtTreeView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/vtkQtView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Views/Qt/vtkViewsQtModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Views/Qt/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/9231fb3ac2c0c127562825a701647395/moc_vtkQtAnnotationView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/9231fb3ac2c0c127562825a701647395/moc_vtkQtListView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/9231fb3ac2c0c127562825a701647395/moc_vtkQtRecordView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/9231fb3ac2c0c127562825a701647395/moc_vtkQtTableView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/9231fb3ac2c0c127562825a701647395/moc_vtkQtTreeView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/CMakeFiles/9231fb3ac2c0c127562825a701647395/moc_vtkQtView.cpp.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkViewsQt" ],
+		"name" : "vtkViewsQt"
+	}
+}

@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/Boost"
+		},
+		
+		{
+			"file" : "E:/B/MITK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/Boost.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/Boost-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/e45374266c3534abee52689caf463445/Boost-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/e45374266c3534abee52689caf463445/Boost-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/e45374266c3534abee52689caf463445/Boost-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/e45374266c3534abee52689caf463445/Boost-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/e45374266c3534abee52689caf463445/Boost-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/e45374266c3534abee52689caf463445/Boost-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/e45374266c3534abee52689caf463445/Boost-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "Boost" ],
+		"name" : "Boost"
+	}
+}

@@ -1,0 +1,27 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/itkCylinderSpatialObject.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/itkSpatialObjectFactoryBase.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/itkArrowSpatialObject.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKSpatialObjects" ],
+		"name" : "ITKSpatialObjects"
+	}
+}

@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK-superbuild/ep/src/CTK/Libs/Widgets/CMakeLists.txt
+E:/B/MITK-superbuild/ep/src/CTK/Libs/Widgets/target_libraries.cmake
+E:/B/MITK-superbuild/ep/src/CTK/Libs/ctkExport.h.in
+E:/B/MITK-superbuild/ep/src/CTK/Libs/Widgets/Resources/ctkWidgets.qrc

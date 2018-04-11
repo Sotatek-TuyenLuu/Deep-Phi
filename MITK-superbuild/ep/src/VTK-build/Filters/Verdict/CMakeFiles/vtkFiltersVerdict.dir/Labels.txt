@@ -1,0 +1,13 @@
+# Target labels
+ vtkFiltersVerdict
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Verdict/vtkCellQuality.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Verdict/vtkMatrixMathFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Verdict/vtkMeshQuality.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Verdict/vtkCellQuality.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Verdict/vtkMatrixMathFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Verdict/vtkMeshQuality.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Verdict/vtkFiltersVerdictModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Verdict/vtkFiltersVerdictInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/Verdict/vtkFiltersVerdictInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/Verdict/CMakeLists.txt

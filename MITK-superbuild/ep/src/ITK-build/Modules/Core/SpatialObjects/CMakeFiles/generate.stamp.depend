@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/CMakeLists.txt
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/itk-module.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKIOImageBase.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKCommon.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKDoubleConversion.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKKWSys.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKVNLInstantiation.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKVNL.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKImageFunction.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKImageAdaptors.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKStatistics.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKNetlib.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKTransform.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKImageFilterBase.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKMesh.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKMetaIO.cmake
+E:/B/MITK-superbuild/ep/src/ITK-build/lib/cmake/ITK-4.7/Modules/ITKZLIB.cmake
+E:/B/MITK-superbuild/ep/src/ITK/CMake/ITKModuleInfo.cmake.in
+E:/B/MITK-superbuild/ep/src/ITK/CMake/ITKModuleInfo.cmake.in
+E:/B/MITK-superbuild/ep/src/ITK/Utilities/Doxygen/Module.dox.in

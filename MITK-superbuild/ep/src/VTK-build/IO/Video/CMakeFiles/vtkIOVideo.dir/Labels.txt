@@ -1,0 +1,11 @@
+# Target labels
+ vtkIOVideo
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/Video/vtkVideoSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Video/vtkWin32VideoSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Video/vtkVideoSource.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Video/vtkWin32VideoSource.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Video/vtkIOVideoModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Video/vtkIOVideoInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Video/vtkIOVideoInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Video/CMakeLists.txt

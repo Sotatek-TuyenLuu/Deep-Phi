@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/qRestAPI"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/17c0f4a1e1adc6981a134d52423531ff/qRestAPI.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/fdfd82991bcb65606cb0a6d11b44276b/qRestAPI-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/8d7e48adc0ce33d7ff8f330114701ff1/qRestAPI-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/8d7e48adc0ce33d7ff8f330114701ff1/qRestAPI-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/8d7e48adc0ce33d7ff8f330114701ff1/qRestAPI-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/8d7e48adc0ce33d7ff8f330114701ff1/qRestAPI-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/8d7e48adc0ce33d7ff8f330114701ff1/qRestAPI-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/8d7e48adc0ce33d7ff8f330114701ff1/qRestAPI-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CMakeFiles/8d7e48adc0ce33d7ff8f330114701ff1/qRestAPI-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "qRestAPI" ],
+		"name" : "qRestAPI"
+	}
+}

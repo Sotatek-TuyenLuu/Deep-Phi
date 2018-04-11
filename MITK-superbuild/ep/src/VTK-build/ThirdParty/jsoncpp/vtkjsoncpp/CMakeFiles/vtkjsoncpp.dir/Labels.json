@@ -1,0 +1,39 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/jsoncpp/vtkjsoncpp/json_tool.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/jsoncpp/vtkjsoncpp/json_reader.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/jsoncpp/vtkjsoncpp/json_batchallocator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/jsoncpp/vtkjsoncpp/json_valueiterator.inl"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/jsoncpp/vtkjsoncpp/json_value.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/jsoncpp/vtkjsoncpp/json_writer.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/jsoncpp/vtkjsoncpp/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkjsoncpp" ],
+		"name" : "vtkjsoncpp"
+	}
+}

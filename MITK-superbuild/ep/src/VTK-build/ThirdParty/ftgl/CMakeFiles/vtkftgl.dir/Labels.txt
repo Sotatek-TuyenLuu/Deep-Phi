@@ -1,0 +1,19 @@
+# Target labels
+ vtkftgl
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTBitmapGlyph.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTBitmapGlyphRenderOpenGL.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTCharmap.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTFace.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTFont.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTGLBitmapFont.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTGLBitmapFontRenderOpenGL.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTGLPixmapFont.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTGLPixmapFontRenderOpenGL.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTGlyph.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTGlyphContainer.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTLibrary.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTPixmapGlyph.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTPixmapGlyphRenderOpenGL.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/src/FTSize.cpp
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/ftgl/CMakeLists.txt

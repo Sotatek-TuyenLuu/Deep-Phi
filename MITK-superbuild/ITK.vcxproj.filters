@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\bd9101c53fa1d0e2a879e7c046465684\ITK-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\bd9101c53fa1d0e2a879e7c046465684\ITK-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\bd9101c53fa1d0e2a879e7c046465684\ITK-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\bd9101c53fa1d0e2a879e7c046465684\ITK-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\bd9101c53fa1d0e2a879e7c046465684\ITK-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\bd9101c53fa1d0e2a879e7c046465684\ITK-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\bd9101c53fa1d0e2a879e7c046465684\ITK-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\0b39df59f477f465f443171dd9825b7c\ITK-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\CMakeFiles\b99173ec862025cfd82fb2e53ddcb808\ITK.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK-superbuild\CMakeFiles\ITK" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{4CF2ED73-2218-37F1-9FC4-4A73C7697E5D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

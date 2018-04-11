@@ -1,0 +1,8 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/org.mycompany.myplugin">
+<file>resources/icon.xpm</file>
+<file>plugin.xml</file>
+</qresource>
+</RCC>
+
+

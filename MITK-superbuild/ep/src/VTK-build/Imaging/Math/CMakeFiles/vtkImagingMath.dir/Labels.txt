@@ -1,0 +1,23 @@
+# Target labels
+ vtkImagingMath
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageDivergence.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageDotProduct.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageLogarithmicScale.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageLogic.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageMagnitude.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageMaskBits.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageMathematics.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageWeightedSum.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageDivergence.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageDotProduct.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageLogarithmicScale.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageLogic.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageMagnitude.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageMaskBits.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageMathematics.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/vtkImageWeightedSum.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Math/vtkImagingMathModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Math/vtkImagingMathInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Math/vtkImagingMathInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Math/CMakeLists.txt

@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/GLEW"
+		},
+		
+		{
+			"file" : "E:/B/MITK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/GLEW.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/GLEW-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/7a61527ad4e2cdc1dfff682b73ebdedf/GLEW-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/7a61527ad4e2cdc1dfff682b73ebdedf/GLEW-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/7a61527ad4e2cdc1dfff682b73ebdedf/GLEW-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/7a61527ad4e2cdc1dfff682b73ebdedf/GLEW-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/7a61527ad4e2cdc1dfff682b73ebdedf/GLEW-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/7a61527ad4e2cdc1dfff682b73ebdedf/GLEW-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/7a61527ad4e2cdc1dfff682b73ebdedf/GLEW-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "GLEW" ],
+		"name" : "GLEW"
+	}
+}

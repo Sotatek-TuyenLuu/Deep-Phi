@@ -1,0 +1,67 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/ctkCmdLineModuleFrontendFactoryQtGui.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/ctkCmdLineModuleFrontendQtGui.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/ctkCmdLineModuleQtComboBox.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/ctkCmdLineModuleQtComboBox_p.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/ctkCmdLineModuleQtUiLoader.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/ctkCmdLineModuleObjectTreeWalker_p.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/ctkCmdLineModuleObjectTreeWalker.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Frontend/QtGui/moc_ctkCmdLineModuleQtComboBox_p.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Frontend/QtGui/moc_ctkCmdLineModuleQtUiLoader.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Frontend/QtGui/qrc_ctkCmdLineModulesFrontendQtGui.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/d063f9a0768a582b63c451713dd88eaa/moc_ctkCmdLineModuleQtComboBox_p.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/d063f9a0768a582b63c451713dd88eaa/moc_ctkCmdLineModuleQtUiLoader.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Frontend/QtGui/Resources/ctkCmdLineModulesFrontendQtGui.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "CTKCommandLineModulesFrontendQtGui" ],
+		"name" : "CTKCommandLineModulesFrontendQtGui"
+	}
+}

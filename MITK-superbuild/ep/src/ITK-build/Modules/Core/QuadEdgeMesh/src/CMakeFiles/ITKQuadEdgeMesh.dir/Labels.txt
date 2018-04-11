@@ -1,0 +1,5 @@
+# Target labels
+ ITKQuadEdgeMesh
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/QuadEdgeMesh/src/itkQuadEdge.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/QuadEdgeMesh/src/CMakeLists.txt

@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLHAVSVolumeMapper.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLProjectedAAHexahedraMapper.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLProjectedTetrahedraMapper.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLRayCastImageDisplayHelper.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLVolumeTextureMapper2D.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLVolumeTextureMapper3D.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkSmartVolumeMapper.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLGPUVolumeRayCastMapper.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_AdditiveFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_AdditiveCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_AdditiveNoCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_CompositeFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_CompositeMaskFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_CompositeBinaryMaskFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_CompositeCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_CompositeNoCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_HeaderFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MIPCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MIPFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MIPBinaryMaskFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MIPFourDependentFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MIPFourDependentCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MIPFourDependentNoCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MIPNoCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MinIPCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MinIPFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MinIPBinaryMaskFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MinIPFourDependentFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MinIPFourDependentCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MinIPFourDependentNoCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_MinIPNoCroppingFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_ParallelProjectionFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_PerspectiveProjectionFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_ScaleBiasFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_OneComponentFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_FourComponentsFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_NoShadeFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkGPUVolumeRayCastMapper_ShadeFS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkHAVSVolumeMapper_kbufferVP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkHAVSVolumeMapper_k2FP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkHAVSVolumeMapper_k2BeginFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkHAVSVolumeMapper_k2EndFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkHAVSVolumeMapper_k6FP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkHAVSVolumeMapper_k6BeginFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkHAVSVolumeMapper_k6EndFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkProjectedAAHexahedraMapper_VS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkProjectedAAHexahedraMapper_GS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkProjectedAAHexahedraMapper_FS.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkVolumeTextureMapper3D_FourDependentNoShadeFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkVolumeTextureMapper3D_FourDependentShadeFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkVolumeTextureMapper3D_OneComponentNoShadeFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkVolumeTextureMapper3D_OneComponentShadeFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkVolumeTextureMapper3D_TwoDependentNoShadeFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkVolumeTextureMapper3D_TwoDependentShadeFP.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkRenderingVolumeOpenGLObjectFactory.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkRenderingVolumeOpenGLInstantiator.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLHAVSVolumeMapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLProjectedAAHexahedraMapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLProjectedTetrahedraMapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLRayCastImageDisplayHelper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLVolumeTextureMapper2D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLVolumeTextureMapper3D.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkSmartVolumeMapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\vtkOpenGLGPUVolumeRayCastMapper.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkRenderingVolumeOpenGLObjectFactory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkRenderingVolumeOpenGLModule.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\VTK-build\Rendering\VolumeOpenGL\vtkRenderingVolumeOpenGLInstantiator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK\Rendering\VolumeOpenGL\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_AdditiveFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_AdditiveCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_AdditiveNoCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_CompositeFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_CompositeMaskFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_CompositeBinaryMaskFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_CompositeCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_CompositeNoCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_HeaderFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MIPCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MIPFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MIPBinaryMaskFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MIPFourDependentFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MIPFourDependentCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MIPFourDependentNoCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MIPNoCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MinIPCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MinIPFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MinIPBinaryMaskFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MinIPFourDependentFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MinIPFourDependentCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MinIPFourDependentNoCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_MinIPNoCroppingFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_ParallelProjectionFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_PerspectiveProjectionFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_ScaleBiasFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_OneComponentFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_FourComponentsFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_NoShadeFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkGPUVolumeRayCastMapper_ShadeFS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkHAVSVolumeMapper_kbufferVP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkHAVSVolumeMapper_k2FP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkHAVSVolumeMapper_k2BeginFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkHAVSVolumeMapper_k2EndFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkHAVSVolumeMapper_k6FP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkHAVSVolumeMapper_k6BeginFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkHAVSVolumeMapper_k6EndFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkProjectedAAHexahedraMapper_VS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkProjectedAAHexahedraMapper_GS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkProjectedAAHexahedraMapper_FS.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkVolumeTextureMapper3D_FourDependentNoShadeFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkVolumeTextureMapper3D_FourDependentShadeFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkVolumeTextureMapper3D_OneComponentNoShadeFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkVolumeTextureMapper3D_OneComponentShadeFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkVolumeTextureMapper3D_TwoDependentNoShadeFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\VTK-build\CMakeFiles\7c42b0e3202ebc885fbc6e6d3bc8b4a4\vtkVolumeTextureMapper3D_TwoDependentShadeFP.cxx.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{600A26B5-F89A-37EA-9908-FE6BF3F03878}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{A7EEA7A8-D9C7-33D9-A983-4D5FA2209263}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{16181622-4972-3E85-A9D4-4E8A5388273B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

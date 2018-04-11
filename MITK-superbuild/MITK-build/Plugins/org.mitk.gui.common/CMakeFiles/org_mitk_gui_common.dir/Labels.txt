@@ -1,0 +1,32 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkDataNodeObject.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkDataNodeSelection.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkDataStorageEditorInput.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkILifecycleAwarePart.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkILifecycleAwarePart.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkILinkedRenderWindowPart.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkILinkedRenderWindowPart.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIRenderingManager.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIRenderWindowPart.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIRenderWindowPartListener.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIRenderWindowPartListener.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIZombieViewPart.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIZombieViewPart.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkWorkbenchCommandConstants.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkWorkbenchUtil.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/internal/org_mitk_gui_common_Activator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkDataNodeObject.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkDataNodeSelection.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkDataStorageEditorInput.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIRenderingManager.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkIRenderWindowPart.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkWorkbenchCommandConstants.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/mitkWorkbenchUtil.h
+E:/B/MITK/Plugins/org.mitk.gui.common/src/internal/org_mitk_gui_common_Activator.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.common/src/internal/moc_org_mitk_gui_common_Activator.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.common/qrc_org_mitk_gui_common_manifest.cpp
+E:/B/MITK/Plugins/org.mitk.gui.common/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/ac66a4c3f1fa45af127bdc854c7d9879/moc_org_mitk_gui_common_Activator.cpp.rule
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.common/org_mitk_gui_common_manifest.qrc

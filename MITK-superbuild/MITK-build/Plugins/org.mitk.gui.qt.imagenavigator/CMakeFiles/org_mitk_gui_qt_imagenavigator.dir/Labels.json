@@ -1,0 +1,79 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/QmitkImageNavigatorView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/mitkImageNavigatorPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/QmitkImageNavigatorView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/mitkImageNavigatorPluginActivator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/moc_mitkImageNavigatorPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/moc_QmitkImageNavigatorView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/ui_QmitkImageNavigatorViewControls.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/qrc_QmitkImageNavigatorView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/qrc_org_mitk_gui_qt_imagenavigator_manifest.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/qrc_org_mitk_gui_qt_imagenavigator_cached.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/31a6ade63f325684210efcf52aef0a62/moc_mitkImageNavigatorPluginActivator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/31a6ade63f325684210efcf52aef0a62/moc_QmitkImageNavigatorView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/src/internal/QmitkImageNavigatorViewControls.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.imagenavigator/resources/QmitkImageNavigatorView.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/org_mitk_gui_qt_imagenavigator_manifest.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.imagenavigator/org_mitk_gui_qt_imagenavigator_cached.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Plugins" ],
+		"name" : "org_mitk_gui_qt_imagenavigator"
+	}
+}

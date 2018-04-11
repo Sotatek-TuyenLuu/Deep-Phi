@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/MITK-Data"
+		},
+		
+		{
+			"file" : "E:/B/MITK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/MITK-Data.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/MITK-Data-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/3ad711d215ca693f31735316f6a3c048/MITK-Data-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Data" ],
+		"name" : "MITK-Data"
+	}
+}

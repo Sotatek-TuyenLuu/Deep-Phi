@@ -1,0 +1,40 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkExtApplication.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkExtApplicationPlugin.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkExtAppWorkbenchAdvisor.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkMitkWorkbenchIntroPart.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/QmitkEditorPerspective.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/QmitkExtDefaultPerspective.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/QmitkVisualizationPerspective.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkExtApplication.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkExtApplicationPlugin.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkExtAppWorkbenchAdvisor.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/QmitkMitkWorkbenchIntroPart.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/QmitkEditorPerspective.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/QmitkExtDefaultPerspective.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/QmitkVisualizationPerspective.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/src/internal/moc_QmitkExtApplication.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/src/internal/moc_QmitkExtApplicationPlugin.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/src/internal/moc_QmitkMitkWorkbenchIntroPart.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/moc_QmitkEditorPerspective.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/moc_QmitkExtDefaultPerspective.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/moc_QmitkVisualizationPerspective.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/ui_QmitkWelcomeScreenViewControls.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/qrc_QmitkExtApplication.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/qrc_QmitkWelcomeScreenView.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/qrc_org_mitk_gui_qt_extapplication_manifest.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/qrc_org_mitk_gui_qt_extapplication_cached.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/8ce65d6e09d8fe6c61e5dac850beadd3/moc_QmitkExtApplication.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/8ce65d6e09d8fe6c61e5dac850beadd3/moc_QmitkExtApplicationPlugin.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/8ce65d6e09d8fe6c61e5dac850beadd3/moc_QmitkMitkWorkbenchIntroPart.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/088293ee6f11525d121aa428c11f48b9/moc_QmitkEditorPerspective.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/088293ee6f11525d121aa428c11f48b9/moc_QmitkExtDefaultPerspective.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/088293ee6f11525d121aa428c11f48b9/moc_QmitkVisualizationPerspective.cpp.rule
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/src/internal/perspectives/QmitkWelcomeScreenViewControls.ui
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/resources/QmitkExtApplication.qrc
+E:/B/MITK/Plugins/org.mitk.gui.qt.extapplication/resources/welcome/QmitkWelcomeScreenView.qrc
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/org_mitk_gui_qt_extapplication_manifest.qrc
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.extapplication/org_mitk_gui_qt_extapplication_cached.qrc

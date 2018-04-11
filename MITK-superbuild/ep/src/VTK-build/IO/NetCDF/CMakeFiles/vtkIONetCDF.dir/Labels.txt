@@ -1,0 +1,21 @@
+# Target labels
+ vtkIONetCDF
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkMPASReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFCAMReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFCFReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFPOPReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkSLACParticleReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkSLACReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkMPASReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFCAMReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFCFReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFPOPReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkNetCDFReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkSLACParticleReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/vtkSLACReader.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/NetCDF/vtkIONetCDFModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/NetCDF/vtkIONetCDFInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/NetCDF/vtkIONetCDFInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/NetCDF/CMakeLists.txt

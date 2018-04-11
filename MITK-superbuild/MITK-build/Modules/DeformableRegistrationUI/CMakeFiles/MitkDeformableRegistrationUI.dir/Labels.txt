@@ -1,0 +1,28 @@
+# Target labels
+ MITK-Registration
+ MITK
+# Source files and their labels
+E:/B/MITK-superbuild/MITK-build/Modules/DeformableRegistrationUI/us_init.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/DeformableRegistrationUI/QmitkDemonsRegistrationView.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/DeformableRegistrationUI/QmitkBSplineRegistrationView.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/DeformableRegistrationUI/QmitkDemonsRegistrationView.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/DeformableRegistrationUI/QmitkBSplineRegistrationView.h
+ MITK-Registration
+ MITK
+E:/B/MITK-superbuild/MITK-build/Modules/DeformableRegistrationUI/ui_QmitkDemonsRegistrationViewControls.h
+E:/B/MITK-superbuild/MITK-build/Modules/DeformableRegistrationUI/ui_QmitkBSplineRegistrationViewControls.h
+E:/B/MITK-superbuild/MITK-build/Modules/DeformableRegistrationUI/moc_QmitkDemonsRegistrationView.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/DeformableRegistrationUI/moc_QmitkBSplineRegistrationView.cpp
+E:/B/MITK/Modules/DeformableRegistrationUI/QmitkDemonsRegistrationViewControls.ui
+E:/B/MITK/Modules/DeformableRegistrationUI/QmitkBSplineRegistrationViewControls.ui
+E:/B/MITK/Modules/DeformableRegistrationUI/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/deb80fd811b1af081ef60fa1ebf748f9/moc_QmitkDemonsRegistrationView.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/deb80fd811b1af081ef60fa1ebf748f9/moc_QmitkBSplineRegistrationView.cpp.rule

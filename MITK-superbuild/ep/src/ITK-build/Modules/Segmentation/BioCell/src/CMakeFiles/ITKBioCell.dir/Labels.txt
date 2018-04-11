@@ -1,0 +1,9 @@
+# Target labels
+ ITKBioCell
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/BioCell/src/itkBioGenome.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/BioCell/src/itkBioGene.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/BioCell/src/itkBioGeneNetwork.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/BioCell/src/itkBioCellBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/BioCell/src/itkBioCellularAggregateBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/BioCell/src/CMakeLists.txt

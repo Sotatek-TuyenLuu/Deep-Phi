@@ -1,0 +1,14 @@
+# Target labels
+ vtkIOMovie
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/Movie/vtkGenericMovieWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Movie/vtkOggTheoraWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Movie/vtkAVIWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Movie/vtkIOMovieConfigure.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Movie/vtkGenericMovieWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Movie/vtkOggTheoraWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Movie/vtkAVIWriter.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Movie/vtkIOMovieModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Movie/vtkIOMovieInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Movie/vtkIOMovieInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Movie/CMakeLists.txt

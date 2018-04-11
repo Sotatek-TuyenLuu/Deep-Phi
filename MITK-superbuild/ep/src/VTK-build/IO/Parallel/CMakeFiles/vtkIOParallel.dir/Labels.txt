@@ -1,0 +1,21 @@
+# Target labels
+ vtkIOParallel
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkEnSightWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPChacoReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPDataSetReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPDataSetWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPImageWriter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPOpenFOAMReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPSLACReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkEnSightWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPChacoReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPDataSetReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPDataSetWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPImageWriter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPOpenFOAMReader.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/vtkPSLACReader.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Parallel/vtkIOParallelModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Parallel/vtkIOParallelInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Parallel/vtkIOParallelInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Parallel/CMakeLists.txt

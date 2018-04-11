@@ -1,0 +1,2 @@
+2 1
+org_mycompany_myplugin org_mitk_gui_qt_common

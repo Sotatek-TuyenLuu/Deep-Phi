@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\MyProject\Plugins\org.mycompany.myplugin\src\internal\org_mycompany_myplugin_Activator.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\MyProject\Plugins\org.mycompany.myplugin\src\internal\MyView.cpp">
+      <Filter>== Source Files ==</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MyProject-build\Plugins\org.mycompany.myplugin\src\internal\moc_org_mycompany_myplugin_Activator.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MyProject-build\Plugins\org.mycompany.myplugin\src\internal\moc_MyView.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MyProject-build\Plugins\org.mycompany.myplugin\qrc_org_mycompany_myplugin_manifest.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MyProject-build\Plugins\org.mycompany.myplugin\qrc_org_mycompany_myplugin_cached.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\MyProject\Plugins\org.mycompany.myplugin\src\internal\org_mycompany_myplugin_Activator.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\MyProject\Plugins\org.mycompany.myplugin\src\internal\MyView.h">
+      <Filter>== Header Files ==</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MyProject-build\Plugins\org.mycompany.myplugin\ui_MyViewControls.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\MyProject\Plugins\org.mycompany.myplugin\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MyProject-build\CMakeFiles\8c5169f36324706e8a16fc4f1641c0c5\moc_org_mycompany_myplugin_Activator.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MyProject-build\CMakeFiles\8c5169f36324706e8a16fc4f1641c0c5\moc_MyView.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\MyProject\Plugins\org.mycompany.myplugin\src\internal\MyViewControls.ui">
+      <Filter>QT UI Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MyProject-build\Plugins\org.mycompany.myplugin\org_mycompany_myplugin_manifest.qrc" />
+    <CustomBuild Include="E:\B\MyProject-build\Plugins\org.mycompany.myplugin\org_mycompany_myplugin_cached.qrc" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{713229E7-56F1-3397-AE51-E45859FD2F3B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Source Files ==">
+      <UniqueIdentifier>{C9009442-F38B-3DCB-B43B-E29C47308212}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="== Header Files ==">
+      <UniqueIdentifier>{436ADB42-BD21-3E9F-85CB-BDA630EF270C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="QT UI Files">
+      <UniqueIdentifier>{9CA71011-4DEC-3188-AAFE-12F62B75DA81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{799A3B40-5453-3FDE-9E91-15EFC5B890F4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,276 @@
+# Target labels
+ MITK-CoreUI
+ MITK
+# Source files and their labels
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/us_init.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkApplicationCursor.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkDataStorageComboBox.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkDataStorageListModel.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkDataStorageTableModel.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkDataStorageTreeModel.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkFileReaderOptionsDialog.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkFileReaderWriterOptionsWidget.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkFileWriterOptionsDialog.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkIOUtil.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkLevelWindowPresetDefinitionDialog.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkLevelWindowRangeChangeDialog.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkLevelWindowWidgetContextMenu.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkLevelWindowWidget.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkLineEditLevelWindowWidget.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkMemoryUsageIndicatorView.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkMimeTypes.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkNodeDescriptor.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkNodeDescriptorManager.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkRenderWindowMenu.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkProgressBar.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkPropertiesTableEditor.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkPropertiesTableModel.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkPropertyDelegate.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkRegisterClasses.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkRenderingManager.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkRenderingManagerFactory.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkRenderWindow.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkServiceListWidget.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkSliderLevelWindowWidget.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkStdMultiWidget.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkMouseModeSwitcher.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkDataStorageFilterProxyModel.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/src/QmitkDataStorageComboBoxWithSelectNone.cpp
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkApplicationCursor.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkCustomVariants.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkDataStorageComboBox.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkDataStorageComboBoxWithSelectNone.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkDataStorageFilterProxyModel.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkDataStorageListModel.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkDataStorageTableModel.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkDataStorageTreeModel.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkEnums.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkFileReaderOptionsDialog.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkFileReaderWriterOptionsWidget.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkFileWriterOptionsDialog.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkIOUtil.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkLevelWindowPresetDefinitionDialog.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkLevelWindowRangeChangeDialog.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkLevelWindowWidget.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkLevelWindowWidgetContextMenu.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkLineEditLevelWindowWidget.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkMemoryUsageIndicatorView.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkMimeTypes.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkMouseModeSwitcher.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkNodeDescriptor.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkNodeDescriptorManager.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkProgressBar.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkPropertiesTableEditor.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkPropertiesTableModel.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkPropertyDelegate.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkRegisterClasses.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkRenderingManager.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkRenderingManagerFactory.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkRenderWindow.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkRenderWindowMenu.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkServiceListWidget.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkSliderLevelWindowWidget.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK/Modules/QtWidgets/include/QmitkStdMultiWidget.h
+ MITK-CoreUI
+ MITK
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/ui_QmitkFileReaderOptionsDialog.h
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/ui_QmitkFileWriterOptionsDialog.h
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/ui_QmitkLevelWindowPresetDefinition.h
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/ui_QmitkLevelWindowWidget.h
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/ui_QmitkLevelWindowRangeChange.h
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/ui_QmitkMemoryUsageIndicator.h
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/ui_QmitkServiceListWidgetControls.h
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkDataStorageComboBox.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkDataStorageTableModel.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkFileReaderOptionsDialog.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkFileReaderWriterOptionsWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkFileWriterOptionsDialog.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkLevelWindowPresetDefinitionDialog.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkLevelWindowRangeChangeDialog.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkLevelWindowWidgetContextMenu.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkLevelWindowWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkLineEditLevelWindowWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkMemoryUsageIndicatorView.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkNodeDescriptor.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkNodeDescriptorManager.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkRenderWindowMenu.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkProgressBar.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkPropertiesTableEditor.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkPropertyDelegate.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkRenderingManager.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkRenderWindow.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkServiceListWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkSliderLevelWindowWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkStdMultiWidget.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkMouseModeSwitcher.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/include/moc_QmitkDataStorageComboBoxWithSelectNone.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/QtWidgets/qrc_Qmitk.cpp
+E:/B/MITK/Modules/QtWidgets/src/QmitkFileReaderOptionsDialog.ui
+E:/B/MITK/Modules/QtWidgets/src/QmitkFileWriterOptionsDialog.ui
+E:/B/MITK/Modules/QtWidgets/src/QmitkLevelWindowPresetDefinition.ui
+E:/B/MITK/Modules/QtWidgets/src/QmitkLevelWindowWidget.ui
+E:/B/MITK/Modules/QtWidgets/src/QmitkLevelWindowRangeChange.ui
+E:/B/MITK/Modules/QtWidgets/src/QmitkMemoryUsageIndicator.ui
+E:/B/MITK/Modules/QtWidgets/src/QmitkServiceListWidgetControls.ui
+E:/B/MITK/Modules/QtWidgets/resource/Qmitk.qrc
+E:/B/MITK/Modules/QtWidgets/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkDataStorageComboBox.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkDataStorageTableModel.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkFileReaderOptionsDialog.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkFileReaderWriterOptionsWidget.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkFileWriterOptionsDialog.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkLevelWindowPresetDefinitionDialog.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkLevelWindowRangeChangeDialog.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkLevelWindowWidgetContextMenu.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkLevelWindowWidget.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkLineEditLevelWindowWidget.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkMemoryUsageIndicatorView.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkNodeDescriptor.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkNodeDescriptorManager.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkRenderWindowMenu.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkProgressBar.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkPropertiesTableEditor.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkPropertyDelegate.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkRenderingManager.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkRenderWindow.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkServiceListWidget.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkSliderLevelWindowWidget.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkStdMultiWidget.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkMouseModeSwitcher.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/0e8d70f1ca0df26f2226f2eaf5ab5c2c/moc_QmitkDataStorageComboBoxWithSelectNone.cpp.rule

@@ -1,0 +1,17 @@
+# CMake generation dependency list for this directory.
+E:/MyProject/Plugins/org.mycompany.myplugin/CMakeLists.txt
+E:/MyProject/Plugins/org.mycompany.myplugin/files.cmake
+E:/MyProject/Plugins/org.mycompany.myplugin/manifest_headers.cmake
+E:/MyProject/Plugins/org.mycompany.myplugin/manifest_headers.cmake
+C:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfigVersion.cmake
+C:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsConfig.cmake
+C:/Qt/5.4/msvc2013_opengl/lib/cmake/Qt5LinguistTools/Qt5LinguistToolsMacros.cmake
+E:/B/MITK/Modules/CppMicroServices/cmake/CMakeParseArguments.cmake
+E:/B/MITK-superbuild/ep/src/CTK/Libs/ctkExport.h.in
+E:/B/MITK-superbuild/ep/src/CTK/CMake/MANIFEST.MF.in
+E:/B/MITK-superbuild/ep/src/CTK/CMake/plugin_manifest.qrc.in
+E:/B/MyProject-build/Plugins/org.mycompany.myplugin/org_mycompany_myplugin_manifest.qrc
+E:/MyProject/Plugins/org.mycompany.myplugin/resources/icon.xpm
+E:/MyProject/Plugins/org.mycompany.myplugin/plugin.xml
+E:/B/MITK-superbuild/ep/src/CTK/CMake/plugin_resources_cached.qrc.in
+E:/B/MyProject-build/Plugins/org.mycompany.myplugin/org_mycompany_myplugin_cached.qrc

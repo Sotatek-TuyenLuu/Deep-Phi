@@ -1,0 +1,159 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/berrySingleNodeSelection.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/QmitkDataManagerView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/QmitkDataManagerPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/QmitkDataManagerHotkeysPrefPage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/mitkPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/QmitkNodeTableViewKeyFilter.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/QmitkInfoDialog.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/QmitkDataManagerItemDelegate.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/berrySingleNodeSelection.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/QmitkDataManagerView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/QmitkDataManagerPreferencePage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/QmitkDataManagerHotkeysPrefPage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/mitkPluginActivator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/QmitkNodeTableViewKeyFilter.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/QmitkInfoDialog.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/src/internal/QmitkDataManagerItemDelegate.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/src/moc_QmitkDataManagerView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/src/moc_QmitkDataManagerPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/src/moc_QmitkDataManagerHotkeysPrefPage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/src/internal/moc_QmitkNodeTableViewKeyFilter.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/src/internal/moc_QmitkInfoDialog.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/src/internal/moc_QmitkDataManagerItemDelegate.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/src/internal/moc_mitkPluginActivator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/qrc_datamanager.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/qrc_org_mitk_gui_qt_datamanager_manifest.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/qrc_org_mitk_gui_qt_datamanager_cached.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/a733089430d543dff4fbd07c22688c5a/moc_QmitkDataManagerView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/a733089430d543dff4fbd07c22688c5a/moc_QmitkDataManagerPreferencePage.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/a733089430d543dff4fbd07c22688c5a/moc_QmitkDataManagerHotkeysPrefPage.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/b49cf311a0adaf274abd989d513bd338/moc_QmitkNodeTableViewKeyFilter.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/b49cf311a0adaf274abd989d513bd338/moc_QmitkInfoDialog.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/b49cf311a0adaf274abd989d513bd338/moc_QmitkDataManagerItemDelegate.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/b49cf311a0adaf274abd989d513bd338/moc_mitkPluginActivator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.datamanager/resources/datamanager.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/org_mitk_gui_qt_datamanager_manifest.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.datamanager/org_mitk_gui_qt_datamanager_cached.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Plugins" ],
+		"name" : "org_mitk_gui_qt_datamanager"
+	}
+}

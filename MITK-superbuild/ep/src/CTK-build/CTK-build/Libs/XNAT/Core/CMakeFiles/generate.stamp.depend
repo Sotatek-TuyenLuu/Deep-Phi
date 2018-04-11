@@ -1,0 +1,4 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK-superbuild/ep/src/CTK/Libs/XNAT/Core/CMakeLists.txt
+E:/B/MITK-superbuild/ep/src/CTK/Libs/XNAT/Core/target_libraries.cmake
+E:/B/MITK-superbuild/ep/src/CTK/Libs/ctkExport.h.in

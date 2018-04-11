@@ -1,0 +1,31 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationRegion.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationRegion.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkSegmentationBorder.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/itkKLMSegmentationBorder.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/ITK/Modules/Segmentation/KLMRegionGrowing/src/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "ITKKLMRegionGrowing" ],
+		"name" : "ITKKLMRegionGrowing"
+	}
+}

@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMAppWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMBrowser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMDirectoryListWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMImage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMImportWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMItemView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMListenerWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMQueryResultsTabWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMQueryRetrieveWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMQueryWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMObjectListWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMServerNodeWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMTableManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMTableView.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMThumbnailGenerator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMThumbnailListWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMAppWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMBrowser.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMItemView.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMDirectoryListWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMImage.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMImportWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMObjectListWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMQueryRetrieveWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMQueryWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMServerNodeWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMTableManager.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMTableView.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMThumbnailGenerator.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\moc_ctkDICOMThumbnailListWidget.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMAppWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMBrowser.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMDirectoryListWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMImage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMImportWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMItemView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMListenerWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMQueryResultsTabWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMQueryRetrieveWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMQueryWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMObjectListWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMServerNodeWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMTableManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMTableView.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMThumbnailGenerator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\ctkDICOMThumbnailListWidget.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMAppWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMBrowser.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMDirectoryListWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMImportWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMListenerWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMQueryRetrieveWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMQueryWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMObjectListWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMServerNodeWidget.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMTableManager.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\DICOM\Widgets\ui_ctkDICOMTableView.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMAppWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMBrowser.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMItemView.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMDirectoryListWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMImage.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMImportWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMObjectListWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMQueryRetrieveWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMQueryWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMServerNodeWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMTableManager.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMTableView.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMThumbnailGenerator.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\a4a09ae49dffe9cc20ba54c7df0c5a3f\moc_ctkDICOMThumbnailListWidget.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMAppWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMBrowser.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMDirectoryListWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMImportWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMListenerWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMQueryRetrieveWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMQueryWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMObjectListWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMServerNodeWidget.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMTableManager.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\DICOM\Widgets\Resources\UI\ctkDICOMTableView.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8FADA9E-9DBE-38B4-ABDC-2B1778D3BE9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{328A4477-AA42-35C0-B5FF-4AD3DD0DABCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{88D044E2-2161-3C42-8628-CA3F6DEE6C49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{458BC5DD-DE80-3145-9BC8-DBD688081FFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{62ED9A61-2B97-399B-A2A9-8FC3E4A86410}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

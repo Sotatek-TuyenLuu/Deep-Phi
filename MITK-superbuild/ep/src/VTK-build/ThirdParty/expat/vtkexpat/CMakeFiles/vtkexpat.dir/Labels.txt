@@ -1,0 +1,7 @@
+# Target labels
+ vtkexpat
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/expat/vtkexpat/xmlparse.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/expat/vtkexpat/xmltok.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/expat/vtkexpat/xmlrole.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/expat/vtkexpat/CMakeLists.txt

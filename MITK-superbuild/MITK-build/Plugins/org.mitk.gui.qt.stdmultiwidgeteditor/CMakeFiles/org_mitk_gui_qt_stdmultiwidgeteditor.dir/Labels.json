@@ -1,0 +1,87 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/QmitkStdMultiWidgetEditor.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/internal/org_mitk_gui_qt_stdmultiwidgeteditor_Activator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/internal/QmitkStdMultiWidgetEditorPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/QmitkStdMultiWidgetEditor.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/internal/org_mitk_gui_qt_stdmultiwidgeteditor_Activator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/internal/QmitkStdMultiWidgetEditorPreferencePage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/moc_QmitkStdMultiWidgetEditor.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/internal/moc_org_mitk_gui_qt_stdmultiwidgeteditor_Activator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/internal/moc_QmitkStdMultiWidgetEditorPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/ui_QmitkStdMultiWidgetEditorPreferencePage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/qrc_org_mitk_gui_qt_stdmultiwidgeteditor_manifest.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/qrc_org_mitk_gui_qt_stdmultiwidgeteditor_cached.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/a0166a366572c507c596892fa8f8b5c1/moc_QmitkStdMultiWidgetEditor.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/add6293eccb6495f989f67588cf0d483/moc_org_mitk_gui_qt_stdmultiwidgeteditor_Activator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/add6293eccb6495f989f67588cf0d483/moc_QmitkStdMultiWidgetEditorPreferencePage.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/src/internal/QmitkStdMultiWidgetEditorPreferencePage.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/org_mitk_gui_qt_stdmultiwidgeteditor_manifest.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.stdmultiwidgeteditor/org_mitk_gui_qt_stdmultiwidgeteditor_cached.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Plugins" ],
+		"name" : "org_mitk_gui_qt_stdmultiwidgeteditor"
+	}
+}

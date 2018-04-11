@@ -1,0 +1,7 @@
+# Target labels
+ ITKIOTIFF
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/itkTIFFImageIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/itkTIFFReaderInternal.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/itkTIFFImageIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/TIFF/src/CMakeLists.txt

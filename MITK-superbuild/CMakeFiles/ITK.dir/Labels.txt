@@ -1,0 +1,14 @@
+# Target labels
+ ITK
+# Source files and their labels
+E:/B/MITK-superbuild/CMakeFiles/ITK
+E:/B/MITK/CMakeLists.txt
+E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/ITK.rule
+E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/ITK-complete.rule
+E:/B/MITK-superbuild/CMakeFiles/bd9101c53fa1d0e2a879e7c046465684/ITK-install.rule
+E:/B/MITK-superbuild/CMakeFiles/bd9101c53fa1d0e2a879e7c046465684/ITK-mkdir.rule
+E:/B/MITK-superbuild/CMakeFiles/bd9101c53fa1d0e2a879e7c046465684/ITK-download.rule
+E:/B/MITK-superbuild/CMakeFiles/bd9101c53fa1d0e2a879e7c046465684/ITK-update.rule
+E:/B/MITK-superbuild/CMakeFiles/bd9101c53fa1d0e2a879e7c046465684/ITK-patch.rule
+E:/B/MITK-superbuild/CMakeFiles/bd9101c53fa1d0e2a879e7c046465684/ITK-configure.rule
+E:/B/MITK-superbuild/CMakeFiles/bd9101c53fa1d0e2a879e7c046465684/ITK-build.rule

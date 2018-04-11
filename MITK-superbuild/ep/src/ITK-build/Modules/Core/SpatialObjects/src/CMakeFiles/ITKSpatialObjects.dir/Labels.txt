@@ -1,0 +1,7 @@
+# Target labels
+ ITKSpatialObjects
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/itkCylinderSpatialObject.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/itkSpatialObjectFactoryBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/itkArrowSpatialObject.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Core/SpatialObjects/src/CMakeLists.txt

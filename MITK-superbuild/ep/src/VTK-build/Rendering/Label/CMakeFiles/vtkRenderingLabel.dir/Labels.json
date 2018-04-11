@@ -1,0 +1,131 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledDataMapper.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledTreeMapDataMapper.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyAlgorithm.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyCompositeIterator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchy.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyIterator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacementMapper.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacer.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelRenderStrategy.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelSizeCalculator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkFreeTypeLabelRenderStrategy.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkDynamic2DLabelMapper.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkPointSetToLabelHierarchy.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledDataMapper.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledTreeMapDataMapper.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyAlgorithm.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyCompositeIterator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchy.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyIterator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacementMapper.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacer.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelRenderStrategy.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelSizeCalculator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkFreeTypeLabelRenderStrategy.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkDynamic2DLabelMapper.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkPointSetToLabelHierarchy.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Label/vtkRenderingLabelModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Label/vtkRenderingLabelInstantiator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Label/vtkRenderingLabelInstantiator.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkRenderingLabel" ],
+		"name" : "vtkRenderingLabel"
+	}
+}

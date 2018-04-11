@@ -1,0 +1,6 @@
+# Target labels
+ vtkParseOGLExt
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/ParseOGLExt/Tokenizer.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/ParseOGLExt/ParseOGLExt.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Utilities/ParseOGLExt/CMakeLists.txt

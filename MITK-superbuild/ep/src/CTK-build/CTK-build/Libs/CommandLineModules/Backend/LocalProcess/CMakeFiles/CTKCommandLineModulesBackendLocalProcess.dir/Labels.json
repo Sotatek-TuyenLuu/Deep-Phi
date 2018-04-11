@@ -1,0 +1,47 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleBackendLocalProcess.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessTask.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Backend/LocalProcess/ctkCmdLineModuleProcessWatcher_p.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Backend/LocalProcess/moc_ctkCmdLineModuleProcessWatcher_p.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/Libs/CommandLineModules/Backend/LocalProcess/qrc_ctkCmdLineModulesBackendLocalProcess.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Backend/LocalProcess/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK-build/CTK-build/CMakeFiles/af061e6180d5466170cf7ecc235b7dc7/moc_ctkCmdLineModuleProcessWatcher_p.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Backend/LocalProcess/Resources/ctkCmdLineModulesBackendLocalProcess.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "CTKCommandLineModulesBackendLocalProcess" ],
+		"name" : "CTKCommandLineModulesBackendLocalProcess"
+	}
+}

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\ITK\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\ITK-build\CMakeFiles\afeeaf2f27097c120fccdef9b4561d54\ITKHeaderTests.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="E:\B\MITK-superbuild\ep\src\ITK-build\CMakeFiles\ITKHeaderTests" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B8A98DA4-21BB-39C5-96F4-235CB11257FF}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,6 @@
+# Target labels
+ ITKIOIPL
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/IPL/src/itkIPLCommonImageIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/IPL/src/itkIPLFileNameList.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/IPL/src/CMakeLists.txt

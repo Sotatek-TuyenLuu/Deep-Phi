@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleBackend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleCache.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleConcurrentHelpers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleDefaultPathBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleDescription.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleDirectoryWatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleFrontend.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleFrontendFactory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleFuture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleFutureInterface.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleFutureWatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleParameter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleParameterGroup.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModulePathBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleResult.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlProgressWatcher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleReference.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleRunException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleTimeoutException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlException.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlMsgHandler.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlParser.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlValidator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXslTransform.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\CommandLineModules\Core\moc_ctkCmdLineModuleDirectoryWatcher.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\CommandLineModules\Core\moc_ctkCmdLineModuleDirectoryWatcher_p.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\CommandLineModules\Core\moc_ctkCmdLineModuleFutureWatcher.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\CommandLineModules\Core\moc_ctkCmdLineModuleManager.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\Libs\CommandLineModules\Core\qrc_ctkCmdLineModules.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleCache_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleDescription_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleDirectoryWatcher_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleFrontend.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleFutureInterface_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleParameter_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleParameterGroup_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleParameterParsers_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlProgressWatcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlMsgHandler_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\ctkCmdLineModuleXmlParser_p.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\CMakeLists.txt" />
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\e5b86bc8c4acb7291dfeb3a8ae8b4af6\moc_ctkCmdLineModuleFrontend.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\e5b86bc8c4acb7291dfeb3a8ae8b4af6\moc_ctkCmdLineModuleXmlProgressWatcher.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\e5b86bc8c4acb7291dfeb3a8ae8b4af6\moc_ctkCmdLineModuleDirectoryWatcher.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\e5b86bc8c4acb7291dfeb3a8ae8b4af6\moc_ctkCmdLineModuleDirectoryWatcher_p.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\e5b86bc8c4acb7291dfeb3a8ae8b4af6\moc_ctkCmdLineModuleFutureWatcher.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK-build\CTK-build\CMakeFiles\e5b86bc8c4acb7291dfeb3a8ae8b4af6\moc_ctkCmdLineModuleManager.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\CTK\Libs\CommandLineModules\Core\Resources\ctkCmdLineModules.qrc">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{E8FADA9E-9DBE-38B4-ABDC-2B1778D3BE9A}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{328A4477-AA42-35C0-B5FF-4AD3DD0DABCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{88D044E2-2161-3C42-8628-CA3F6DEE6C49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{458BC5DD-DE80-3145-9BC8-DBD688081FFB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{62ED9A61-2B97-399B-A2A9-8FC3E4A86410}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

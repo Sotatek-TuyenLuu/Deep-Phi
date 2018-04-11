@@ -1,0 +1,187 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/DOCBparser.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/HTMLparser.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/HTMLtree.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/SAX.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/SAX2.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/c14n.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/catalog.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/chvalid.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/debugXML.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/dict.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/encoding.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/entities.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/error.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/globals.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/hash.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/legacy.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/list.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/nanoftp.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/nanohttp.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/parser.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/parserInternals.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/pattern.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/relaxng.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/schematron.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/threads.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/tree.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/uri.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/valid.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xinclude.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xlink.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlIO.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlmemory.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlmodule.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlreader.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlregexp.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlsave.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlschemas.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlschemastypes.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlstring.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlunicode.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xmlwriter.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xpath.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/xpointer.c"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/libxml2/vtklibxml2/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtklibxml2" ],
+		"name" : "vtklibxml2"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ vtkIOImport
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/IO/Import/vtk3DSImporter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Import/vtkImporter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Import/vtkVRMLImporter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Import/vtk3DSImporter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Import/vtkImporter.h
+E:/B/MITK-superbuild/ep/src/VTK/IO/Import/vtkVRMLImporter.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Import/vtkIOImportModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Import/vtkIOImportInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/IO/Import/vtkIOImportInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/IO/Import/CMakeLists.txt

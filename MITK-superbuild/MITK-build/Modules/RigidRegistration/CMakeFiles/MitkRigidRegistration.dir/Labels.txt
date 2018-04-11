@@ -1,0 +1,77 @@
+# Target labels
+ MITK-Registration
+ MITK
+# Source files and their labels
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/us_init.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkImageRegistrationMethod.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkMetricParameters.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkOptimizerFactory.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkOptimizerParameters.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkRigidRegistrationObserver.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkRigidRegistrationPreset.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkTransformParameters.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkPyramidalRegistrationMethod.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/us_MitkRigidRegistration/us_resources.cpp
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkImageRegistrationMethod.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkMetricParameters.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkOptimizerFactory.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkOptimizerParameters.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkRigidRegistrationObserver.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkRigidRegistrationPreset.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkTransformParameters.h
+ MITK-Registration
+ MITK
+E:/B/MITK/Modules/RigidRegistration/mitkPyramidalRegistrationMethod.h
+ MITK-Registration
+ MITK
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-int.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-_unsigned_int.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-_short.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-_unsigned_short.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-_char.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-_unsigned_char.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-double.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkImageRegistrationMethod-_float.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-int.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-_unsigned_int.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-_short.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-_unsigned_short.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-_char.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-_unsigned_char.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-double.cpp
+E:/B/MITK-superbuild/MITK-build/Modules/RigidRegistration/mitkPyramidalRegistrationMethod-_float.cpp
+E:/B/MITK/Modules/RigidRegistration/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/5cc3ee9a3a5361ee55467a322e1fe43b/us_resources.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/5cc3ee9a3a5361ee55467a322e1fe43b/res_0.zip.rule

@@ -1,0 +1,4 @@
+-DWIN32
+-o
+E:/B/MITK-superbuild/ep/src/Qwt-build/src/moc_qwt_panner.cpp
+E:/B/MITK-superbuild/ep/src/Qwt/src/qwt_panner.h

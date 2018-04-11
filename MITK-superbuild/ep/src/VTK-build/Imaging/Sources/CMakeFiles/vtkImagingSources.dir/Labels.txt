@@ -1,0 +1,21 @@
+# Target labels
+ vtkImagingSources
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageCanvasSource2D.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageEllipsoidSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageGaussianSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageGridSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageMandelbrotSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageNoiseSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageSinusoidSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageCanvasSource2D.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageEllipsoidSource.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageGaussianSource.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageGridSource.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageMandelbrotSource.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageNoiseSource.h
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/vtkImageSinusoidSource.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Sources/vtkImagingSourcesModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Sources/vtkImagingSourcesInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Imaging/Sources/vtkImagingSourcesInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Imaging/Sources/CMakeLists.txt

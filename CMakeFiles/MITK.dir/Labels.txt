@@ -1,0 +1,14 @@
+# Target labels
+ MITK
+# Source files and their labels
+E:/B/CMakeFiles/MITK
+E:/MyProject/CMakeLists.txt
+E:/B/CMakeFiles/7176a3b473cc20062284145d12936f32/MITK.rule
+E:/B/CMakeFiles/848d7366bfa76b08ecfecd9146cf938b/MITK-complete.rule
+E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-install.rule
+E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-mkdir.rule
+E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-download.rule
+E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-update.rule
+E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-patch.rule
+E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-configure.rule
+E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-build.rule

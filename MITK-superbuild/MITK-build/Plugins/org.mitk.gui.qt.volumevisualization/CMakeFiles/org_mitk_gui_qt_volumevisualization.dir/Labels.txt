@@ -1,0 +1,18 @@
+# Target labels
+ MITK-Plugins
+# Source files and their labels
+E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/mitkPluginActivator.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/QmitkVolumeVisualizationView.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/mitkPluginActivator.h
+E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/QmitkVolumeVisualizationView.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/moc_mitkPluginActivator.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/moc_QmitkVolumeVisualizationView.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/ui_QmitkVolumeVisualizationViewControls.h
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/qrc_org_mitk_gui_qt_volumevisualization_manifest.cpp
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/qrc_org_mitk_gui_qt_volumevisualization_cached.cpp
+E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/CMakeLists.txt
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/ffb0b915c08646f263dc781b2305c8ec/moc_mitkPluginActivator.cpp.rule
+E:/B/MITK-superbuild/MITK-build/CMakeFiles/ffb0b915c08646f263dc781b2305c8ec/moc_QmitkVolumeVisualizationView.cpp.rule
+E:/B/MITK/Plugins/org.mitk.gui.qt.volumevisualization/src/internal/QmitkVolumeVisualizationViewControls.ui
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/org_mitk_gui_qt_volumevisualization_manifest.qrc
+E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.volumevisualization/org_mitk_gui_qt_volumevisualization_cached.qrc

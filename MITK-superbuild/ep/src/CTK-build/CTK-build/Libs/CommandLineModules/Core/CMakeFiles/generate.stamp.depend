@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Core/CMakeLists.txt
+E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Core/target_libraries.cmake
+E:/B/MITK-superbuild/ep/src/CTK/Libs/ctkExport.h.in
+E:/B/MITK-superbuild/ep/src/CTK/Libs/CommandLineModules/Core/Resources/ctkCmdLineModules.qrc

@@ -1,0 +1,14 @@
+# Target labels
+ ITKStatistics
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkDenseFrequencyContainer2.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkSparseFrequencyContainer2.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkChiSquareDistribution.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkGaussianDistribution.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkTDistribution.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkNormalVariateGenerator.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkDecisionRule.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkMaximumDecisionRule.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkMaximumRatioDecisionRule.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/itkMinimumDecisionRule.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Numerics/Statistics/src/CMakeLists.txt

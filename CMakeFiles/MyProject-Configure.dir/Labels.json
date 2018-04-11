@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/CMakeFiles/MyProject-Configure"
+		},
+		
+		{
+			"file" : "E:/MyProject/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/7176a3b473cc20062284145d12936f32/MyProject-Configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/848d7366bfa76b08ecfecd9146cf938b/MyProject-Configure-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/33c206b8ca3b9b496475763b72220faf/MyProject-Configure-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/33c206b8ca3b9b496475763b72220faf/MyProject-Configure-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/33c206b8ca3b9b496475763b72220faf/MyProject-Configure-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/33c206b8ca3b9b496475763b72220faf/MyProject-Configure-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/33c206b8ca3b9b496475763b72220faf/MyProject-Configure-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/33c206b8ca3b9b496475763b72220faf/MyProject-Configure-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/33c206b8ca3b9b496475763b72220faf/MyProject-Configure-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MyProject-Configure" ],
+		"name" : "MyProject-Configure"
+	}
+}

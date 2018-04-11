@@ -1,0 +1,183 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/org_mitk_gui_qt_properties_Activator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertiesPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItemDelegate.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItem.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItemModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItemSortFilterProxyModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyTreeView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkAddNewPropertyDialog.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/org_mitk_gui_qt_properties_Activator.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertiesPreferencePage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItemDelegate.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItem.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItemModel.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyItemSortFilterProxyModel.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyTreeView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkAddNewPropertyDialog.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/src/internal/moc_QmitkPropertiesPreferencePage.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/src/internal/moc_org_mitk_gui_qt_properties_Activator.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/src/internal/moc_QmitkPropertyItemDelegate.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/src/internal/moc_QmitkPropertyItemModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/src/internal/moc_QmitkPropertyItemSortFilterProxyModel.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/src/internal/moc_QmitkPropertyTreeView.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/src/internal/moc_QmitkAddNewPropertyDialog.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/ui_QmitkPropertiesPreferencePage.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/ui_QmitkPropertyTreeView.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/ui_QmitkAddNewPropertyDialog.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/qrc_Properties.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/qrc_org_mitk_gui_qt_properties_manifest.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/qrc_org_mitk_gui_qt_properties_cached.cpp"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f375387b6bc1f3afdad1ef0bf39843b6/moc_QmitkPropertiesPreferencePage.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f375387b6bc1f3afdad1ef0bf39843b6/moc_org_mitk_gui_qt_properties_Activator.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f375387b6bc1f3afdad1ef0bf39843b6/moc_QmitkPropertyItemDelegate.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f375387b6bc1f3afdad1ef0bf39843b6/moc_QmitkPropertyItemModel.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f375387b6bc1f3afdad1ef0bf39843b6/moc_QmitkPropertyItemSortFilterProxyModel.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f375387b6bc1f3afdad1ef0bf39843b6/moc_QmitkPropertyTreeView.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f375387b6bc1f3afdad1ef0bf39843b6/moc_QmitkAddNewPropertyDialog.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertiesPreferencePage.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkPropertyTreeView.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/src/internal/QmitkAddNewPropertyDialog.ui"
+		},
+		
+		{
+			"file" : "E:/B/MITK/Plugins/org.mitk.gui.qt.properties/resources/Properties.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/org_mitk_gui_qt_properties_manifest.qrc"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Plugins/org.mitk.gui.qt.properties/org_mitk_gui_qt_properties_cached.qrc"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Plugins" ],
+		"name" : "org_mitk_gui_qt_properties"
+	}
+}

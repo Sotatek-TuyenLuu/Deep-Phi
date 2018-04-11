@@ -1,0 +1,9 @@
+E:/B/MITK-superbuild/ep/lib/glewd.lib
+E:/B/MITK-superbuild/ep/bin/glewd.dll
+E:/B/MITK-superbuild/ep/include/GL/glew.h
+E:/B/MITK-superbuild/ep/include/GL/glxew.h
+E:/B/MITK-superbuild/ep/include/GL/wglew.h
+E:/B/MITK-superbuild/ep/lib/cmake/GLEW/GLEWTargets.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/GLEW/GLEWTargets-debug.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/GLEW/GLEWConfig.cmake
+E:/B/MITK-superbuild/ep/lib/cmake/GLEW/GLEWConfigVersion.cmake

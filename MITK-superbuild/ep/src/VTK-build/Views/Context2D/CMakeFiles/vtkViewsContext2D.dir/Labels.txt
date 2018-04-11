@@ -1,0 +1,11 @@
+# Target labels
+ vtkViewsContext2D
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Views/Context2D/vtkContextView.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Views/Context2D/vtkContextInteractorStyle.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Views/Context2D/vtkContextView.h
+E:/B/MITK-superbuild/ep/src/VTK/Views/Context2D/vtkContextInteractorStyle.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Views/Context2D/vtkViewsContext2DModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Views/Context2D/vtkViewsContext2DInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Views/Context2D/vtkViewsContext2DInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Views/Context2D/CMakeLists.txt

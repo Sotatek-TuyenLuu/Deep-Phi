@@ -1,0 +1,73 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Modules/Gizmo/us_init.cpp",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/src/mitkGizmo.cpp",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/src/mitkGizmoInteractor.cpp",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/src/mitkGizmoObjectFactory.cpp",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/src/mitkGizmoMapper2D.cpp",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/Modules/Gizmo/us_MitkGizmo/us_resources.cpp",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/src/mitkGizmoMapper2D.h",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/src/mitkGizmoObjectFactory.h",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/include/mitkGizmo.h",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/include/mitkGizmoInteractor.h",
+			"labels" : [ "MITK-Modules", "MITK" ]
+		},
+		
+		{
+			"file" : "E:/B/MITK/Modules/Gizmo/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f89bedf60efdde4a4363abdc87c490f8/us_resources.cpp.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/MITK-build/CMakeFiles/f89bedf60efdde4a4363abdc87c490f8/res_0.zip.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK-Modules", "MITK" ],
+		"name" : "MitkGizmo"
+	}
+}

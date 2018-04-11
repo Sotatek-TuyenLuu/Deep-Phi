@@ -1,0 +1,19 @@
+# Target labels
+ ITKPNG
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngget.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngrio.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngwrite.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/png.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngmem.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngrtran.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngtrans.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngwtran.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngerror.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngpread.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngrutil.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngwutil.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngread.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngset.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/pngwio.c
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/PNG/src/itkpng/CMakeLists.txt

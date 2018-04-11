@@ -1,0 +1,349 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|Win32">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|Win32">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGUID>{924B8733-EAD7-3E5F-9B30-B1E31C2E83B2}</ProjectGUID>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>Win32</Platform>
+    <ProjectName>all_examples</ProjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <UseOfMfc>false</UseOfMfc>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v120</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+    <PropertyGroup>
+      <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+      <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\Eigen-build\doc;E:\B\MITK-superbuild\ep\src\Eigen\doc;E:\B\MITK-superbuild\ep\src\Eigen;E:\B\MITK-superbuild\ep\src\Eigen-build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\Eigen-build\doc;E:\B\MITK-superbuild\ep\src\Eigen\doc;E:\B\MITK-superbuild\ep\src\Eigen;E:\B\MITK-superbuild\ep\src\Eigen-build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\Eigen-build\doc;E:\B\MITK-superbuild\ep\src\Eigen\doc;E:\B\MITK-superbuild\ep\src\Eigen;E:\B\MITK-superbuild\ep\src\Eigen-build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">
+    <Midl>
+      <AdditionalIncludeDirectories>E:\B\MITK-superbuild\ep\src\Eigen-build\doc;E:\B\MITK-superbuild\ep\src\Eigen\doc;E:\B\MITK-superbuild\ep\src\Eigen;E:\B\MITK-superbuild\ep\src\Eigen-build;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt">
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/Eigen -BE:/B/MITK-superbuild/ep/src/Eigen-build --check-stamp-file E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_header.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_footer.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\unsupported\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/Eigen -BE:/B/MITK-superbuild/ep/src/Eigen-build --check-stamp-file E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_header.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_footer.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\unsupported\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/Eigen -BE:/B/MITK-superbuild/ep/src/Eigen-build --check-stamp-file E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_header.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_footer.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\unsupported\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|Win32'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">Building Custom Rule E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -HE:/B/MITK-superbuild/ep/src/Eigen -BE:/B/MITK-superbuild/ep/src/Eigen-build --check-stamp-file E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:/B/MITK-superbuild/ep/src/Eigen/doc/CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\Doxyfile.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_header.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_footer.html.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\unsupported\doc\eigendoxy_layout.xml.in;E:\B\MITK-superbuild\ep\src\Eigen\doc\CMakeLists.txt;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">E:\B\MITK-superbuild\ep\src\Eigen-build\doc\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|Win32'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/ZERO_CHECK.vcxproj">
+      <Project>A27B9452-ACC7-38AD-AB2E-D20CD3D89412</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/DenseBase_middleCols_int.vcxproj">
+      <Project>8D68F0E9-81B7-337C-BF00-5CC58BA875F7</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/DenseBase_middleRows_int.vcxproj">
+      <Project>83AC2DDB-DC03-3E17-BB97-1442425ACF87</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/DenseBase_template_int_middleCols.vcxproj">
+      <Project>96A51BE9-E7DE-37C5-BE77-0A8D9AB16515</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/DenseBase_template_int_middleRows.vcxproj">
+      <Project>3077393E-EF3C-3A40-8BD1-005327C6F89F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/MatrixBase_cwise_const.vcxproj">
+      <Project>2C99CD00-5991-3CFA-854B-80C8B0F6E26F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/QuickStart_example.vcxproj">
+      <Project>FE82FAD7-BE38-379C-AFDC-F9225409C922</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/QuickStart_example2_dynamic.vcxproj">
+      <Project>B7D014B9-421A-3841-8F75-374FB1419CC4</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/QuickStart_example2_fixed.vcxproj">
+      <Project>91C6B15C-C714-3959-AE50-74859865D38B</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TemplateKeyword_flexible.vcxproj">
+      <Project>1CA656DB-7A95-3C91-B533-5803E6D4E518</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TemplateKeyword_simple.vcxproj">
+      <Project>83063A9F-C9D7-3DD0-B3E6-6C574DE7A310</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgComputeTwice.vcxproj">
+      <Project>31D64992-B15D-335F-B896-6331961B382B</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgExComputeSolveError.vcxproj">
+      <Project>0B32A565-E0EE-3157-89A0-1C01535896FF</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgExSolveColPivHouseholderQR.vcxproj">
+      <Project>DB0F6701-9B1D-3C68-9D3D-41A43A8B8D5F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgExSolveLDLT.vcxproj">
+      <Project>869122EB-9920-3A45-9550-FB3085828AFE</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgInverseDeterminant.vcxproj">
+      <Project>E92CDEEB-69A3-3E20-97C3-6033AAEDB43B</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgRankRevealing.vcxproj">
+      <Project>3B1AA4FE-AC8F-3B8B-8890-F1969B66624A</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgSVDSolve.vcxproj">
+      <Project>BEAA1249-4455-368A-914C-63AFDCD6D532</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgSelfAdjointEigenSolver.vcxproj">
+      <Project>57718813-A151-3536-8A10-6F1439D9BEC4</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/TutorialLinAlgSetThreshold.vcxproj">
+      <Project>1753A197-FD99-31D2-B33F-85C98FF551CF</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ArrayClass_accessors.vcxproj">
+      <Project>1B0407B7-B839-31E2-9C06-6927099118A9</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ArrayClass_addition.vcxproj">
+      <Project>10A2C1D8-DE2E-3D00-81CC-B3F92DE2E23F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ArrayClass_cwise_other.vcxproj">
+      <Project>DF4E84D0-EEC5-333D-8B2E-ACF348E8D623</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ArrayClass_interop.vcxproj">
+      <Project>C9C05889-5B98-306F-BCF1-220520A6458C</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ArrayClass_interop_matrix.vcxproj">
+      <Project>86684124-12B1-3A5E-BCE7-9E9EFF18E8E4</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ArrayClass_mult.vcxproj">
+      <Project>1B530118-5E79-3C5C-84F3-F6E8A12977F4</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_BlockOperations_block_assignment.vcxproj">
+      <Project>637731E4-55DD-3CEF-AF89-B3C74449B25F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_BlockOperations_colrow.vcxproj">
+      <Project>7F8E728C-C61E-3AEC-9F66-35AFEF47C54F</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_BlockOperations_corner.vcxproj">
+      <Project>09362B62-790E-30FC-9100-0BE623CDCFA3</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_BlockOperations_print_block.vcxproj">
+      <Project>10DBC1D0-EC49-34DC-8489-BA078909DD54</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_BlockOperations_vector.vcxproj">
+      <Project>95C25A8C-C2EE-3712-9D8C-0E38ADA3D1DF</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_PartialLU_solve.vcxproj">
+      <Project>10DE2595-66CD-33D8-9B9F-1C2906BA5E4C</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_1nn.vcxproj">
+      <Project>EF392441-5BC4-399D-B6A3-AB1D111E0F24</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple.vcxproj">
+      <Project>C8D1A249-0618-39CB-8AE3-3CF4975F93FE</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_broadcast_simple_rowwise.vcxproj">
+      <Project>9ADB5040-4DB9-300A-AE0C-E79705BECE83</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_colwise.vcxproj">
+      <Project>9BA0D0B2-2ACD-3AD6-B9AF-00F43B5AD2F0</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_maxnorm.vcxproj">
+      <Project>757E914E-02A7-3367-A633-19BAD3788CB1</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_bool.vcxproj">
+      <Project>493A9ADA-1EFC-37F8-9031-42CF905E7772</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_reductions_norm.vcxproj">
+      <Project>68A7FCD0-33B8-3DD5-913C-2DD58F0BAA2A</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_rowwise.vcxproj">
+      <Project>7259158F-2016-33E2-A6F3-7C9D7A7FD4D2</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_ReductionsVisitorsBroadcasting_visitors.vcxproj">
+      <Project>88518893-0838-37FB-B030-588E78712E95</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_simple_example_dynamic_size.vcxproj">
+      <Project>5924C11A-DFF1-3157-B37A-415869E09EFE</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/Tutorial_simple_example_fixed_size.vcxproj">
+      <Project>78818E19-FE55-30CF-B67D-8CBDFD484A63</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/class_Block.vcxproj">
+      <Project>C84030A1-C904-3C25-97CA-6E6B46AADAAC</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/class_CwiseBinaryOp.vcxproj">
+      <Project>1955687A-DF2B-3812-9254-03961E9C1753</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/class_CwiseUnaryOp.vcxproj">
+      <Project>2D9F3C4C-2B6A-307F-B8EA-7EB5098C0886</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/class_CwiseUnaryOp_ptrfun.vcxproj">
+      <Project>5C7D0BE1-9355-36A4-AA7A-7B1ECDBB1AE2</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/class_FixedBlock.vcxproj">
+      <Project>DC9D6E62-CF5F-3C47-9CBC-E552F4D359F3</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/class_FixedVectorBlock.vcxproj">
+      <Project>B0B6A2AF-095D-3F03-8C59-0A1661BB243E</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/class_VectorBlock.vcxproj">
+      <Project>ED3D6E56-6942-3EED-AD3F-B96C25624283</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/function_taking_eigenbase.vcxproj">
+      <Project>11E9E86B-7D95-3989-8C0A-6C1D61018743</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/function_taking_ref.vcxproj">
+      <Project>34388155-0147-3AAC-969E-EA2CA3524CED</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_arithmetic_add_sub.vcxproj">
+      <Project>20702538-3CA2-34C6-A4ED-7147FA58E1DC</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_arithmetic_dot_cross.vcxproj">
+      <Project>19CE0BFC-3E31-3943-BE18-CDF079281B9B</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_arithmetic_matrix_mul.vcxproj">
+      <Project>9CAC587B-570E-3E76-B238-C8D5D39C490C</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_arithmetic_redux_basic.vcxproj">
+      <Project>88580E80-8438-3502-9E94-BA37527476F9</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_arithmetic_scalar_mul_div.vcxproj">
+      <Project>9B7D3E7F-4D96-3681-828E-13750B5DA938</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_matrix_coefficient_accessors.vcxproj">
+      <Project>5AAB8E4A-1952-3BC0-8712-5F4D232DDF13</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_matrix_resize.vcxproj">
+      <Project>597B86D1-76EF-39FA-86A3-EBB567EF2DA0</Project>
+    </ProjectReference>
+    <ProjectReference Include="E:/B/MITK-superbuild/ep/src/Eigen-build/doc/examples/tut_matrix_resize_fixed_size.vcxproj">
+      <Project>67644E6A-72D3-3012-95EB-4B4959CC24E7</Project>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

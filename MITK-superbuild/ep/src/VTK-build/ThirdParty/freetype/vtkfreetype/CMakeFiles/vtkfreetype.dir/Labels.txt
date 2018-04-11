@@ -1,0 +1,30 @@
+# Target labels
+ vtkfreetype
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/base/ftbase.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/base/ftbbox.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/base/ftbitmap.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/base/ftglyph.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/base/ftinit.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/base/ftmm.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/bdf/bdf.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/cache/ftcache.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/cff/cff.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/cid/type1cid.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/gzip/ftgzip.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/lzw/ftlzw.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/pcf/pcf.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/pfr/pfr.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/psaux/psaux.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/pshinter/pshinter.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/psnames/psmodule.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/raster/raster.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/sfnt/sfnt.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/smooth/smooth.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/truetype/truetype.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/type1/type1.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/type42/type42.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/winfonts/winfnt.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/builds/win32/ftdebug.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/src/base/ftsystem.c
+E:/B/MITK-superbuild/ep/src/VTK/ThirdParty/freetype/vtkfreetype/CMakeLists.txt

@@ -1,0 +1,8 @@
+# Target labels
+ ITKVideoIO
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Video/IO/src/itkFileListVideoIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Video/IO/src/itkFileListVideoIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Video/IO/src/itkVideoIOBase.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Video/IO/src/itkVideoIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/Video/IO/src/CMakeLists.txt

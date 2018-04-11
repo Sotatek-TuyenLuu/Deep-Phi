@@ -1,0 +1,7 @@
+# Target labels
+ ITKIOMRC
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/MRC/src/itkMRCHeaderObject.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/MRC/src/itkMRCImageIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/MRC/src/itkMRCImageIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/MRC/src/CMakeLists.txt

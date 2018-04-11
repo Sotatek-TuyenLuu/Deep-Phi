@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/Qwt"
+		},
+		
+		{
+			"file" : "E:/B/MITK/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/b99173ec862025cfd82fb2e53ddcb808/Qwt.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/0b39df59f477f465f443171dd9825b7c/Qwt-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/6c2c1d5610f10af1afa89b0fe1563ce1/Qwt-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/6c2c1d5610f10af1afa89b0fe1563ce1/Qwt-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/6c2c1d5610f10af1afa89b0fe1563ce1/Qwt-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/6c2c1d5610f10af1afa89b0fe1563ce1/Qwt-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/6c2c1d5610f10af1afa89b0fe1563ce1/Qwt-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/6c2c1d5610f10af1afa89b0fe1563ce1/Qwt-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/CMakeFiles/6c2c1d5610f10af1afa89b0fe1563ce1/Qwt-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "Qwt" ],
+		"name" : "Qwt"
+	}
+}

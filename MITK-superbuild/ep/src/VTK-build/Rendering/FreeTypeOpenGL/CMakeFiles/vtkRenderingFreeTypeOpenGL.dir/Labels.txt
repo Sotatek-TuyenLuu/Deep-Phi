@@ -1,0 +1,11 @@
+# Target labels
+ vtkRenderingFreeTypeOpenGL
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeTypeOpenGL/vtkOpenGLFreeTypeTextMapper.cxx
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeTypeOpenGL/vtkRenderingFreeTypeOpenGLObjectFactory.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeTypeOpenGL/vtkOpenGLFreeTypeTextMapper.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeTypeOpenGL/vtkRenderingFreeTypeOpenGLObjectFactory.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeTypeOpenGL/vtkRenderingFreeTypeOpenGLModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeTypeOpenGL/vtkRenderingFreeTypeOpenGLInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/FreeTypeOpenGL/vtkRenderingFreeTypeOpenGLInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/FreeTypeOpenGL/CMakeLists.txt

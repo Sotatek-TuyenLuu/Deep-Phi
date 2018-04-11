@@ -1,0 +1,7 @@
+E:/B/CMakeFiles/MITK.dir
+E:/B/CMakeFiles/MyProject-Configure.dir
+E:/B/CMakeFiles/MyProject-Utilities.dir
+E:/B/CMakeFiles/MyProject-build.dir
+E:/B/CMakeFiles/MyProject.dir
+E:/B/CMakeFiles/ALL_BUILD.dir
+E:/B/CMakeFiles/ZERO_CHECK.dir

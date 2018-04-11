@@ -1,0 +1,33 @@
+# Target labels
+ vtkRenderingLabel
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledDataMapper.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledTreeMapDataMapper.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyAlgorithm.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyCompositeIterator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchy.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyIterator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacementMapper.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacer.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelRenderStrategy.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelSizeCalculator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkFreeTypeLabelRenderStrategy.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkDynamic2DLabelMapper.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkPointSetToLabelHierarchy.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledDataMapper.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabeledTreeMapDataMapper.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyAlgorithm.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyCompositeIterator.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchy.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelHierarchyIterator.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacementMapper.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelPlacer.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelRenderStrategy.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkLabelSizeCalculator.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkFreeTypeLabelRenderStrategy.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkDynamic2DLabelMapper.h
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/vtkPointSetToLabelHierarchy.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Label/vtkRenderingLabelModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Label/vtkRenderingLabelInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Rendering/Label/vtkRenderingLabelInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Rendering/Label/CMakeLists.txt

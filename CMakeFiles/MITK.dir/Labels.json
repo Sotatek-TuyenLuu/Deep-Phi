@@ -1,0 +1,55 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/CMakeFiles/MITK"
+		},
+		
+		{
+			"file" : "E:/MyProject/CMakeLists.txt"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/7176a3b473cc20062284145d12936f32/MITK.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/848d7366bfa76b08ecfecd9146cf938b/MITK-complete.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-install.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-mkdir.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-download.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-update.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-patch.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-configure.rule"
+		},
+		
+		{
+			"file" : "E:/B/CMakeFiles/321e037505f4cd5c94442e6a7f4a6f50/MITK-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "MITK" ],
+		"name" : "MITK"
+	}
+}

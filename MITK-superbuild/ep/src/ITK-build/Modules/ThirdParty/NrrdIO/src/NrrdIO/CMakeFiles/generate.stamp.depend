@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/NrrdIO/src/NrrdIO/CMakeLists.txt
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/NrrdIO/src/NrrdIO/NrrdIO.h.in
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/NrrdIO/src/NrrdIO/CMake/TestQnanhibit.cmake
+E:/B/MITK-superbuild/ep/src/ITK/Modules/ThirdParty/NrrdIO/src/NrrdIO/CMake/TestQnanhibit.c

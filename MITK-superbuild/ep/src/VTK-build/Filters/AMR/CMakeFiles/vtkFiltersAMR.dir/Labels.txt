@@ -1,0 +1,21 @@
+# Target labels
+ vtkFiltersAMR
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRCutPlane.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRGaussianPulseSource.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRResampleFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRSliceFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRToMultiBlockFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkImageToAMR.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkParallelAMRUtilities.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRCutPlane.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRGaussianPulseSource.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRResampleFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRSliceFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkAMRToMultiBlockFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkImageToAMR.h
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/vtkParallelAMRUtilities.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/AMR/vtkFiltersAMRModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/AMR/vtkFiltersAMRInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Filters/AMR/vtkFiltersAMRInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Filters/AMR/CMakeLists.txt

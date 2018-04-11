@@ -1,0 +1,31 @@
+# Target labels
+ vtkDomainsChemistry
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkBlueObeliskData.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkBlueObeliskDataParser.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkCMLMoleculeReader.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeAlgorithm.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeMapper.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeToAtomBallFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeToBondStickFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeToPolyDataFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkPeriodicTable.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkProgrammableElectronicData.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkProteinRibbonFilter.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkSimpleBondPerceiver.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkBlueObeliskData.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkBlueObeliskDataParser.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkCMLMoleculeReader.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeAlgorithm.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeMapper.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeToAtomBallFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeToBondStickFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkMoleculeToPolyDataFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkPeriodicTable.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkProgrammableElectronicData.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkProteinRibbonFilter.h
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/vtkSimpleBondPerceiver.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Domains/Chemistry/vtkDomainsChemistryModule.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Domains/Chemistry/vtkDomainsChemistryInstantiator.h
+E:/B/MITK-superbuild/ep/src/VTK-build/Domains/Chemistry/vtkDomainsChemistryInstantiator.cxx
+E:/B/MITK-superbuild/ep/src/VTK/Domains/Chemistry/CMakeLists.txt

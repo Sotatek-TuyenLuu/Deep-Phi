@@ -1,0 +1,43 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtSQL/vtkQtSQLDatabase.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtSQL/vtkQtSQLQuery.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtSQL/vtkQtTimePointUtility.cxx"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtSQL/vtkQtSQLDatabase.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtSQL/vtkQtSQLQuery.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtSQL/vtkQtTimePointUtility.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK-build/GUISupport/QtSQL/vtkGUISupportQtSQLModule.h"
+		},
+		
+		{
+			"file" : "E:/B/MITK-superbuild/ep/src/VTK/GUISupport/QtSQL/CMakeLists.txt"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "vtkGUISupportQtSQL" ],
+		"name" : "vtkGUISupportQtSQL"
+	}
+}

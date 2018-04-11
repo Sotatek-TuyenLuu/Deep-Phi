@@ -1,0 +1,6 @@
+# Target labels
+ ITKIOPNG
+# Source files and their labels
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/PNG/src/itkPNGImageIOFactory.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/PNG/src/itkPNGImageIO.cxx
+E:/B/MITK-superbuild/ep/src/ITK/Modules/IO/PNG/src/CMakeLists.txt
