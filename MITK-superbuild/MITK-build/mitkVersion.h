@@ -10,4 +10,4 @@
 
 #define MITK_REVISION "e06eba26f3a088be083cb4083ed35d2fc62e4283"
 #define MITK_REVISION_NAME "releases/2016-03"
-#define MITK_REVISION_DESC "v2015.05.2-2293-ge06eba26f3"
+#define MITK_REVISION_DESC "v2015.05.2-2293-ge06eba26f3 [local changes]"

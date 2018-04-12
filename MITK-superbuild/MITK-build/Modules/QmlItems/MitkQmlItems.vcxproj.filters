@@ -65,6 +65,9 @@
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Generated\Qt MOC Source Files">
+      <UniqueIdentifier>{0F85BD35-5644-37EF-8300-16D1D198A25B}</UniqueIdentifier>
+    </Filter>
     <Filter Include="CMake Rules">
       <UniqueIdentifier>{F9D7BD44-F46A-3074-94FA-ACB39BC09607}</UniqueIdentifier>
     </Filter>
@@ -76,9 +79,6 @@
     </Filter>
     <Filter Include="== Header Files ==">
       <UniqueIdentifier>{5CB12AE6-547A-3229-B71A-F7731BC56B56}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Generated\Qt MOC Source Files">
-      <UniqueIdentifier>{0F85BD35-5644-37EF-8300-16D1D198A25B}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>

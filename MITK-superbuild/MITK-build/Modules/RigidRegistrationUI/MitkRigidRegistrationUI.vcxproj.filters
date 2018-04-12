@@ -557,6 +557,9 @@
     <CustomBuild Include="E:\B\MITK\Modules\RigidRegistrationUI\CMakeLists.txt" />
   </ItemGroup>
   <ItemGroup>
+    <Filter Include="Generated\Qt UI Header Files">
+      <UniqueIdentifier>{369267C4-B362-3C5D-9454-4DF8D2278A34}</UniqueIdentifier>
+    </Filter>
     <Filter Include="Generated">
       <UniqueIdentifier>{B6896CC9-2DEA-38D0-826B-A636B6701822}</UniqueIdentifier>
     </Filter>
@@ -568,9 +571,6 @@
     </Filter>
     <Filter Include="QT UI Files">
       <UniqueIdentifier>{08BFE8F8-7F0B-3A8F-9654-3A8C3C3E9AA5}</UniqueIdentifier>
-    </Filter>
-    <Filter Include="Generated\Qt UI Header Files">
-      <UniqueIdentifier>{369267C4-B362-3C5D-9454-4DF8D2278A34}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
